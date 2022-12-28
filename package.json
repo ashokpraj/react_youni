@@ -1,0 +1,111 @@
+{
+  "dependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "@fullcalendar/common": "^5.11.0",
+    "@fullcalendar/interaction": "^5.11.0",
+    "@fullcalendar/react": "^5.11.1",
+    "@fullcalendar/timegrid": "^5.11.0",
+    "@stripe/react-stripe-js": "^1.10.0",
+    "@stripe/stripe-js": "^1.35.0",
+    "@tanstack/react-table": "^8.5.2",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "compression": "^1.7.1",
+    "create-react-app": "^5.0.1",
+    "crypto-js": "^4.1.1",
+    "firebase": "^9.8.4",
+    "gatsby": "next",
+    "gatsby-plugin-no-sourcemaps": "next",
+    "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-styled-components": "next",
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "next": "^12.2.0",
+    "next-redux-wrapper": "^7.0.5",
+    "next-transpile-modules": "^9.0.0",
+    "prettier-eslint": "^15.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-bootstrap": "^2.4.0",
+    "react-calendar": "^3.8.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-hot-toast": "^2.4.0",
+    "react-icons-kit": "^2.0.0",
+    "react-linkedin-login-oauth2": "^2.0.1",
+    "react-moment": "^1.1.2",
+    "react-paginate": "^8.1.3",
+    "react-pretty-treeview": "^1.0.34",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.4.0",
+    "react-simple-tree-menu": "^1.1.18",
+    "react-stripe-checkout": "^2.6.3",
+    "react-table": "^7.8.0",
+    "react-toastify": "^9.0.5",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1",
+    "styled-components": "^5.3.1",
+    "styled-normalize": "^8.0.6",
+    "web-push": "^3.5.0"
+  },
+  "name": "youni-frontend",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^9.4.1",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^25.1.0",
+    "babel-plugin-inline-dotenv": "^1.1.2",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "husky": "^8.0.1",
+    "jest": "^28.1.2",
+    "lint-staged": "^10.0.8",
+    "nodemon": "^1.3.3",
+    "pre-commit": "^1.2.2",
+    "rimraf": "^3.0.0",
+    "snazzy": "^8.0.0",
+    "standard": "^13.0.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 7072",
+    "gatsby": "gatsby develop",
+    "lint": "next lint",
+    "export": "next build && next export",
+    "dev:static": "http-server ./out"
+  },
+  "pre-commit": "lint-staged",
+  "lint-staged": {
+    "*.js": [
+      "yarn lint:fix",
+      "git add"
+    ]
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "env": [
+      "jest"
+    ]
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "jest": {
+    "modulePaths": [
+      "./src",
+      "./src/test"
+    ],
+    "setupFilesAfterEnv": [
+      "@testing-library/jest-dom/extend-expect"
+    ]
+  }
+}

@@ -1,0 +1,6889 @@
+@media (max-width: 1800px){
+	.common-btn{
+		padding: 10px 18px;
+		font-size: 18px;
+	    line-height: 26px;
+	    min-width: 165px;
+	}
+
+	.app-management-wrapper{
+		padding: 55px 0px;
+	}
+
+	.sub-title{
+		font-size: 38px;
+    line-height: 44px;
+	}
+
+	.section-main-title {
+	  font-size: 66px;
+	  line-height: 78px;
+	}
+
+	.section-button-wrapper{
+		margin: 35px 0px;
+	}
+
+	.section-sub-title{
+		font-size: 48px;
+    line-height: 56px;
+	}
+
+	.bring-order {
+	  padding-top: 120px;
+	}
+
+	.feature-benefits {
+	  padding-top: 220px;
+	}
+
+	.contact-us-section {
+	  padding-top: 160px;
+	}
+
+	.contact-form-wrapper{
+		margin-top: 80px;
+	}
+
+	.contact-sub-title{
+		font-size: 30px;
+    line-height: 36px;
+	}
+
+	.nav-header .navbar-brand{
+		width: 240px;
+	}
+
+	.time-sorting .nav-tabs .nav-link{
+		padding: 8px 15px;
+    min-width: 95px;
+    font-size: 16px;
+	}
+
+	.main-page-content{
+		margin-top: -98px;
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item{
+		font-size: 22px;
+		line-height: 28px;
+	}
+
+	.project-name-details .project-page-name {
+	  font-size: 42px;
+	  line-height: 48px;
+	  padding-bottom: 15px;
+	}
+
+	.project-name-details .project-type {
+	  font-size: 20px;
+	  line-height: 26px;
+	}
+
+	.management-button-wrapper{
+		bottom: 10px;
+	}
+
+	.banner-buttons{
+		padding: 6px 14px;
+    min-width: 130px;
+    font-size: 15px;
+	}
+
+	.project-addition a{
+		font-size: 18px;
+	}
+
+	.project-addition a .add-icon{
+		width: 35px;
+    height: 35px;
+    font-size: 28px;
+	}
+
+	.add-project-btn{
+		font-size: 18px;
+	}
+
+	.add-project-btn .star-icon-wrapper, 
+	.add-project-btn:hover .hover-star-icon-wrapper{
+		width: 40px !important;
+    height: 40px !important;
+	}
+
+	.add-project-btn .star-icon-wrapper img,
+	.add-project-btn .hover-star-icon-wrapper img{
+	  width: 22px !important;
+	}
+
+	.star-poup .add-project-btn .hover-star-icon-wrapper{
+		width: 40px !important;
+    height: 40px !important;
+	}
+
+	.common-popup-wrapper .form-wrapper .form-group,
+	.addcomet-popup-wrapper .form-wrapper .form-group,
+	.addplanet-popup-wrapper .planet-form-wrapper .form-group,
+	.addmoon-popup-wrapper .moon-form-wrapper .form-group,
+	.addsatellite-popup-wrapper .satellite-form-wrapper .form-group{
+		margin-bottom: 0px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	  right: 105px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	  right: 125px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container .react-datepicker__header .react-datepicker__current-month,
+	.form-field-wrapper .react-datepicker .react-datepicker-time__header{
+		font-size: 16px;
+	}
+
+	.form-field-wrapper .react-datepicker__day-names{
+		padding: 0px 0;
+	}
+
+	.form-field-wrapper .react-datepicker__day-names .react-datepicker__day-name{
+		font-size: 11px;
+	}
+
+	.form-field-wrapper .react-datepicker__month .react-datepicker__week .react-datepicker__day{
+		font-size: 12px;
+	}
+
+	.form-field-wrapper{
+		margin-bottom: 25px;
+	}
+
+	.show_images .file_img{
+		width: 100px;
+    height: 100px;
+    padding: 10px 5px 5px
+	}
+
+	.form-field-wrapper.file-upload-input-star,
+	.form-field-wrapper.file-upload-input-comet,
+	.form-field-wrapper.file-upload-input-planet,
+	.form-field-wrapper.file-upload-input-moon,
+	.form-field-wrapper.file-upload-input-satellite{
+	  margin-bottom: 15px;
+	}
+
+	.upload-document-wrapper-star,
+	.upload-document-wrapper-commet,
+	.upload-document-wrapper-planet,
+	.upload-document-wrapper-moon,
+	.upload-document-wrapper-satellite{
+		padding: 8px 10px;
+	}
+
+	.file-upload-input-star.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-star label,
+	.file-upload-input-comet.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-commet label,
+	.file-upload-input-planet.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-planet label,
+	.file-upload-input-moon.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-moon label,
+	.file-upload-input-satellite.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-satellite label{
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	.textarea-field-wrapper .form-control{
+		min-height: 80px;
+	}
+
+	.common-popup-wrapper,
+	.addcomet-popup-wrapper,
+	.addplanet-popup-wrapper,
+	.addmoon-popup-wrapper,
+	.addsatellite-popup-wrapper{
+		padding: 35px 30px;
+		top: 115px;
+		max-height: 590px;
+	}
+
+	.banner-spiral{
+		margin-top: 85px;
+		width: 950px;
+	}
+
+
+	.center-circle-wrapper{
+		width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    margin: -50px 0px 0 -35px;
+	}
+
+	#circle-img-31 .project-name, 
+	#circle-img-32 .project-name, 
+	#circle-img-33 .project-name, 
+	#circle-img-34 .project-name, 
+	#circle-img-34 .project-name, 
+	#circle-img-35 .project-name, 
+	#circle-img-36 .project-name {
+	  font-size: 9px;
+	  line-height: 12px;
+	}
+
+	#circle-img-22 .project-name, 
+	#circle-img-23 .project-name {
+	  font-size: 11px;
+	  line-height: 15px;
+	}
+
+	#circle-img-1 .project-name, 
+	#circle-img-13 .project-name, 
+	#circle-img-24 .project-name, 
+	#circle-img-29 .project-name, 
+	#circle-img-30 .project-name {
+	  font-size: 12px;
+	  line-height: 16px;
+	}
+
+	#circle-img-2 .project-name, 
+	#circle-img-12 .project-name, 
+	#circle-img-25 .project-name, 
+	#circle-img-26 .project-name, 
+	#circle-img-27 .project-name, 
+	#circle-img-28 .project-name {
+	  font-size: 14px;
+	  line-height: 20px;
+	}
+
+	#circle-img-3 .project-name, 
+	#circle-img-4 .project-name, 
+	#circle-img-5 .project-name,
+	#circle-img-11 .project-name, 
+	#circle-img-14 .project-name, 
+	#circle-img-15 .project-name, 
+	#circle-img-17 .project-name, 
+	#circle-img-18 .project-name, 
+	#circle-img-21 .project-name {
+	  font-size: 15px;
+	  line-height: 22px;
+	}
+
+	#circle-img-8 .project-name, 
+	#circle-img-9 .project-name, 
+	#circle-img-10 .project-name, 
+	#circle-img-16 .project-name, 
+	#circle-img-19 .project-name, 
+	#circle-img-20 .project-name {
+	  font-size: 17px;
+	  line-height: 24px;
+	}
+
+	#circle-img-6 .project-name, 
+	#circle-img-7 .project-name {
+	  font-size: 20px;
+	  line-height: 26px;
+	}
+
+	#circle-img-1 {
+	  width: 55px;
+	  height: 55px;
+	  left: 450px;
+	}
+
+	#circle-img-2 {
+	  width: 65px;
+	  height: 65px;
+	  right: 250px;
+	  top: -10px;
+	}
+
+	#circle-img-3 {
+	  width: 75px;
+	  height: 75px;
+	  right: 80px;
+	  bottom: 305px;
+	}
+
+	#circle-img-4 {
+	  width: 85px;
+	  height: 85px;
+	  right: -40px;
+	  top: 170px;
+	}
+
+	#circle-img-5 {
+	  width: 95px;
+	  height: 95px;
+	  right: 100px;
+	  bottom: 40px;
+	}
+
+	#circle-img-6 {
+	  width: 115px;
+	  height: 115px;
+	  right: 270px;
+	  bottom: -25px;
+	}
+
+	#circle-img-7 {
+	  width: 120px;
+	  height: 120px;
+	  right: 415px;
+	  bottom: -35px;
+	}
+
+	#circle-img-8 {
+	  width: 110px;
+	  height: 110px;
+	  left: 250px;
+	  bottom: -25px;
+	}
+
+	#circle-img-9 {
+	  width: 100px;
+	  height: 100px;
+	  left: 70px;
+	  bottom: 25px;
+	}
+
+	.second-spiral{
+		width: 720px;
+		height: 280px;
+	}
+
+	#circle-img-10 {
+	  width: 90px;
+	  height: 90px;
+	  left: -150px;
+	  top: 90px;
+	}
+
+	#circle-img-11 {
+	  width: 80px;
+	  height: 80px;
+	  left: 15px;
+	  top: -10px;
+	}
+
+	#circle-img-12 {
+	  width: 65px;
+	  height: 65px;
+	  left: 210px;
+	  top: -35px;
+	}
+
+	#circle-img-13 {
+	  width: 55px;
+	  height: 55px;
+	  left: 330px;
+	}
+
+	#circle-img-14 {
+	  width: 65px;
+	  height: 65px;
+	  right: 195px;
+	  top: -20px;
+	}
+
+	#circle-img-15 {
+	  width: 75px;
+	  height: 75px;
+	  right: 60px;
+	  top: 10px;
+	}
+
+	#circle-img-16 {
+	  width: 85px;
+	  height: 85px;
+	  right: -10px;
+	  bottom: 100px;
+	}
+
+	#circle-img-17 {
+	  width: 75px;
+	  height: 75px;
+	  right: 110px;
+	  bottom: 20px;
+	}
+
+	#circle-img-18 {
+	  width: 70px;
+	  height: 70px;
+	  right: 240px;
+	  bottom: 5px;
+	}
+
+	.third-spiral{
+		width: 500px;
+		height: 180px;
+	}
+
+	#circle-img-19 {
+	  width: 90px;
+	  height: 90px;
+	  left: -45px;
+	}
+
+	#circle-img-20 {
+	  width: 85px;
+	  height: 85px;
+	  left: -135px;
+	  top: 50px;
+	}
+
+	#circle-img-21 {
+	  width: 65px;
+	  height: 65px;
+	  left: 0px;
+	  top: -25px;
+	}
+
+	#circle-img-22 {
+		width: 45px;
+		height: 45px;
+		left: 145px;
+		top: -30px;
+	}
+
+	#circle-img-23 {
+	  width: 45px;
+	  height: 45px;
+	  right: 145px;
+	  top: -20px;
+	}
+
+	#circle-img-24 {
+	  width: 55px;
+	  height: 55px;
+	  right: 50px;
+	  top: 0px;
+	}
+
+	#circle-img-25 {
+	  width: 65px;
+	  height: 65px;
+	  right: 5px;
+	  bottom: 60px;
+	}
+
+	#circle-img-26 {
+	  width: 65px;
+	  height: 65px;
+	  right: 90px;
+	  bottom: 10px;
+	}
+
+	#circle-img-27 {
+	  width: 65px;
+	  height: 65px;
+	  right: 220px;
+	  bottom: -10px;
+	}
+
+	.fourth-spiral{
+		width: 360px;
+		height: 100px;
+	}
+
+	#circle-img-28 {
+	  width: 65px;
+	  height: 65px;
+	  left: -5px;
+	  bottom: -40px;
+	}
+
+	#circle-img-29 {
+	  width: 55px;
+	  height: 55px;
+	  left: -90px;
+	  top: 20px;
+	}
+
+	#circle-img-30 {
+	  width: 55px;
+	  height: 55px;
+	  left: 0px;
+	  top: -35px;
+	}
+
+	#circle-img-31 {
+	  width: 45px;
+	  height: 45px;
+	  right: 50px;
+	  top: -10px;
+	}
+
+	#circle-img-32 {
+	  width: 40px;
+	  height: 40px;
+	  right: 95px;
+	  top: 55px;
+	}
+
+	#circle-img-33 {
+	  width: 40px;
+	  height: 40px;
+	  left: 130px;
+	  bottom: 0px;
+	}
+
+	#circle-img-34 {
+	  width: 45px;
+	  height: 45px;
+	  left: 65px;
+	  bottom: -5px;
+	}
+
+	#circle-img-35 {
+	  width: 45px;
+	  height: 45px;
+	  left: -15px;
+	  top: 30px;
+	}
+
+	#circle-img-36 {
+	  width: 40px;
+	  height: 40px;
+	  right: 105px;
+	  top: 10px;
+	}
+
+	.common-popup-details .modal-header {
+	  padding: 12px 15px;
+	}
+
+	.common-popup-details .modal-header .modal-title{
+		font-size: 22px;
+	}
+
+	.common-popup-details .modal-header .btn-close{
+		padding: 0 5px;
+	}
+
+	.user-profile-form .form-group {
+	  margin-bottom: 40px;
+	}
+
+	.circle-center-name{
+		font-size: 22px;
+		line-height: 26px;
+	}
+
+	.subscription-plan-wrapper{
+		padding: 15px 0 40px 0;
+	}
+
+	.subscription-plan-wrapper h3{
+		font-size: 28px;
+		line-height: 36px;
+		padding-bottom: 10px;
+	}
+
+	.subscription-plan-wrapper p{
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.background-white{
+		padding: 32px;
+	}
+
+	.signup-text-wrapper{
+		margin: 40px auto 0;
+	}
+
+	/* full calendar */
+	.full-calendar-wrapper{
+		padding: 30px;
+	}
+
+	.calendar-section{
+		width: 320px;
+	}
+
+	.calendar-section .react-calendar{
+		padding: 20px;
+	}
+
+	.calendar-section .react-calendar__navigation__arrow {
+	  padding: 3px;
+	  min-width: 22px;
+	  font-size: 18px;
+	}
+
+	.calendar-section .react-calendar__navigation__label{
+		padding: 4px 2px;
+	}
+
+	.calendar-section .react-calendar__navigation__label .react-calendar__navigation__label__labelText{
+		font-size: 16px;
+		margin-bottom: 0px;
+	}
+
+	.calendar-section .react-calendar__month-view__weekdays__weekday{
+		font-size: 12px;
+	}
+
+	.calendar-section .react-calendar__month-view__days .react-calendar__month-view__days__day{
+		margin: 0 0 5px 0;
+    padding: 12px 4px;
+    font-size: 14px;
+	}
+
+	.full-calendar-section .fc-toolbar-chunk .fc-toolbar-title{
+		font-size: 22px;
+	}
+
+	.full-calendar-section .fc .fc-button-group .fc-button.fc-button-primary{
+		font-size: 14px;
+		line-height: 20px;
+		min-width: 85px;
+	}
+
+	.full-calendar-section .fc .fc-button-group .fc-button {
+	  padding: 7px 12px;
+	}
+
+	.full-calendar-section .fc .fc-col-header thead th .fc-col-header-cell-cushion{
+		font-size: 16px;
+    line-height: 22px;
+	}
+
+	.full-calendar-section .fc-h-event .fc-event-title{
+		font-size: 13px;
+	}
+
+	.calendar-section .react-calendar__year-view__months .react-calendar__year-view__months__month, .calendar-section .react-calendar__decade-view__years .react-calendar__decade-view__years__year, .calendar-section .react-calendar__century-view__decades .react-calendar__century-view__decades__decade{
+		padding: 12px 3px;
+	}
+	/* */
+
+	/* tree view */
+	.treeview-structure{
+		width: 90%;
+	}
+
+	.treeview-filter-dropdown{
+		min-width: 150px;
+	}
+	/* */
+
+	.page-inner-content .banner-image .project-details{
+		top: 100px;
+	}
+
+	.main-page-header{
+		padding: 20px 50px 0;
+	}
+
+	.circle-center-name{
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	.satellite-page #circle-img-4 {
+	  width: 140px;
+	  height: 140px;
+	}
+
+	.satellite-page #circle-img-9 {
+	  width: 130px;
+	  height: 130px;
+	  bottom: 5px;
+	}
+
+	.satellite-page #circle-img-18 {
+	  width: 110px;
+	  height: 110px;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img{
+		width: 60px;
+		height: 60px;
+	}
+
+	.page-not-found-title{
+		font-size: 225px;
+	}
+
+	.not-found-subtitle{
+		font-size: 38px;
+		line-height: 46px;
+	}
+}
+
+@media (max-width: 1600px){
+
+	.nav-header .navbar-brand{
+		width: 220px;
+	}
+
+	.common-btn-pattern,
+	.modal-form-wrapper .modal-header .form-sub-text,
+	.link-redirection,
+	.form-footer span,
+	.form-link-redirection,
+	.check-label,
+	.sign-in-redirection,
+	.user-name,
+	.user-email,
+	.account-type,
+	.user-profile-form .form-group label,
+	.user-profile-details li label,
+	.user-profile-details li .value,
+	.logout-link,
+	.user-profile-details li .dropdown-menu-link{
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.inner-page-header .nav-header {
+	  padding: 18px 40px;
+	}
+
+	.profile-edit-section{
+		height: calc(100vh - 146px);
+	}
+
+	.user-profile-form .form-group .form-control::-webkit-input-placeholder {
+	  font-size: 16px;
+		line-height: 24px;
+	}
+
+	.user-profile-form .form-group .form-control:-ms-input-placeholder {
+	  font-size: 16px;
+		line-height: 24px;
+	}
+
+	.user-profile-form .form-group .form-control::placeholder {
+	 font-size: 16px;
+		line-height: 24px;
+	}
+
+	.common-btn-pattern{
+		padding: 8px 16px;
+	}
+
+	.footer-section-wrapper{
+		padding: 10px 0;
+	}
+
+	.social-links li .social-image{
+		width: 35px;
+    	height: 35px;
+	}
+
+	.social-links li .social-image {
+		width: 18px;
+		height: 18px;
+	}
+
+	.modal-form-wrapper .modal-content{
+		padding: 35px 25px;
+	}
+
+	.modal-form-wrapper .modal-header{
+		margin-bottom: 25px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title{
+		font-size: 36px;
+		line-height: 42px;
+	}
+
+	.signup-form .nav-tabs .nav-link span{
+		font-size: 18px;
+		line-height: 24px;
+		padding-left: 24px;
+	}
+
+	.signup-form .nav-tabs .nav-link span:before{
+		width: 18px;
+    height: 18px;
+	}
+
+	.form-wrapper .form-group label,
+	.planet-form-wrapper .form-group label,
+	.moon-form-wrapper .form-group label,
+	.satellite-form-wrapper .form-group label{
+		font-size: 16px;
+		line-height: 22px;
+		margin-bottom: 7px;
+	}
+
+	.form-wrapper .form-group label .form-icon,
+	.planet-form-wrapper .form-group label .form-icon,
+	.moon-form-wrapper .form-group label .form-icon,
+	.satellite-form-wrapper .form-group label .form-icon{
+		width: 16px;
+	}
+
+	.form-wrapper .form-group .form-control,
+	.planet-form-wrapper .form-group .form-control,
+	.moon-form-wrapper .form-group .form-control,
+	.satellite-form-wrapper .form-group .form-control{
+		padding: 6px 14px;
+		height: 48px;
+	}
+
+	.form-wrapper .form-field-wrapper .input-field-wrapper .form-control,
+	.form-field-wrapper .form-group.add-member textarea{
+		height: 40px;
+    padding: 7px 35px 7px 7px;
+    font-size: 14px;
+    line-height: 22px;
+	}
+
+	.priority-range-slider{
+		height: 40px;
+	}
+
+	#myinput,
+	#myinputComet{
+		height: 7px;
+	}
+
+	.range-slider-milestone-one:before, 
+	.range-slider-milestone-two:before, 
+	.range-slider-milestone-one:after, 
+	.range-slider-milestone-two:after {
+	  top: 12px;
+	}
+
+	.priority-range-slider:before {
+	  top: 2px;
+	}
+
+	.form-field-wrapper .form-group .form-range input[type="range"]::-webkit-slider-thumb {
+	  -webkit-appearance: none;
+	  height: 18px;
+	  width: 18px;
+	  background: #fff;
+	  border-radius: 50%;
+	  border: 1px solid purple;
+	  margin-top: -7px;
+	  cursor: pointer;
+	}
+
+	.form-field-wrapper .form-group .form-range input[type="range"]::-moz-range-thumb {
+	  -webkit-appearance: none;
+	  height: 18px;
+	  width: 18px;
+	  background: #fff;
+	  border-radius: 50%;
+	  border: 1px solid purple;
+	  margin-top: -7px;
+	  cursor: pointer;
+	}
+
+	.form-field-wrapper .form-group .form-range input[type="range"]::-ms-thumb {
+	  -webkit-appearance: none;
+	  height: 18px;
+	  width: 18px;
+	  background: #fff;
+	  border-radius: 50%;
+	  border: 1px solid purple;
+	  margin-top: -7px;
+	  cursor: pointer;
+	}
+
+	.form-wrapper .textarea-field-wrapper .form-control{
+		min-height: 65px;
+		padding: 7px;
+	}
+
+	.form-field-wrapper .input-field-wrapper .placeholder-icon-wrap{
+		right: 7px;
+		top: 11px;
+	}
+
+	.form-field-wrapper .input-field-wrapper .placeholder-icon-wrap span{
+    width: 18px !important;
+    height: 18px !important;
+	}
+
+	.submit-form-wrapper{
+		margin-top: 30px;
+	}
+
+	.submit-form-wrapper .submit-btn-wrapper {
+    padding: 10px 16px;
+    min-width: 130px;
+	}
+
+	.form-footer{
+		margin-top: 40px;
+		padding-top: 30px;
+	}
+
+	.signup-form .modal-header{
+		margin-bottom: 15px;
+	}
+
+	.form-wrapper .form-group,
+	.planet-form-wrapper .form-group,
+	.moon-form-wrapper .form-group,
+	.satellite-form-wrapper .form-group{
+		margin-bottom: 25px;
+	}
+
+	.checkmark{
+		height: 22px;
+		width: 24px;
+	}
+
+	.check-label .checkmark:after{
+		width: 6px;
+		height: 11px;
+		top: 4px;
+	}
+
+	.sign-up-opt li {
+	  margin: 0 7px;
+	}
+
+	.sign-up-opt li a{
+		width: 38px;
+		height: 38px;
+	}
+
+	.user-profile-section {
+	  width: 320px;
+	}
+
+	.profile-image-section img{
+		width: 90%;
+	}
+
+	.user-profile-form .form-group label{
+		margin-bottom: 6px;
+	}
+
+	.user-profile-form .form-group .form-control{
+		height: 42px;
+		padding: 3px 15px;
+		font-size: 16px;
+	}
+
+	.main-page-header{
+		padding: 15px 40px 0;
+	}
+
+	.main-page-content{
+		margin-top: -86px;
+	}
+
+	.time-sorting .nav-tabs .nav-link{
+    padding: 6px 12px;
+    min-width: 85px;
+    font-size: 14px;
+	}
+
+	.user-detail-dropdown .btn{
+		width: 45px;
+		height: 45px;
+	}
+
+	.section-spacing{
+		width: 85%;
+	}
+
+	.sub-title {
+	  font-size: 34px;
+	  line-height: 42px;
+	}
+
+	.section-main-title {
+	  font-size: 60px;
+	  line-height: 72px;
+	}
+
+	.section-info-text{
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.section-sub-title {
+	  font-size: 42px;
+	  line-height: 54px;
+	}
+
+	.feature-benefits {
+	  padding-top: 180px;
+	}
+
+	.feature-name{
+		font-size: 16px;
+    line-height: 24px;
+    margin-top: 20px;
+	}
+
+	.feature-left-side, .feature-right-side{
+		width: 500px;
+	}
+
+	.feature-left-img-2,
+	.feature-left-img-4{
+		left: 40px;
+	}
+
+	.feature-right-img-2,
+	.feature-right-img-4{
+		right: 40px;
+	}
+
+	.contact-us-section {
+	  padding-top: 120px;
+	}
+
+	.contact-form-wrapper {
+	  margin-top: 60px;
+	  padding: 55px;
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item {
+	  font-size: 20px;
+	  line-height: 26px;
+	}
+
+	.project-name-details .project-page-name {
+		font-size: 32px;
+		line-height: 40px;
+		padding-bottom: 5px;
+	}
+
+	.project-name-details .project-type {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.project-addition a {
+	  font-size: 16px;
+	}
+
+	.project-addition a .add-icon {
+	  width: 30px;
+	  height: 30px;
+	  font-size: 24px;
+	}
+
+	.project-addition {
+	  margin-bottom: 10px;
+	}
+
+	.add-project-btn {
+	  font-size: 16px;
+	  padding: 6px 30px 6px 10px;
+	}
+
+	.add-project-btn .star-icon-wrapper, 
+	.add-project-btn:hover .hover-star-icon-wrapper {
+	  width: 35px !important;
+	  height: 35px !important;
+	}
+
+	.add-project-btn .star-icon-wrapper img,
+	.add-project-btn .hover-star-icon-wrapper img{
+	  width: 18px !important;
+	}
+
+	.banner-buttons {
+		padding: 4px 10px;
+		min-width: 110px;
+		font-size: 14px;
+	}
+
+	.form-wrapper .form-group label span,
+	.planet-form-wrapper .form-group label span,
+	.moon-form-wrapper .form-group label span,
+	.satellite-form-wrapper .form-group label span{
+		width: 16px !important;
+	}
+
+	.star-poup .add-project-btn .hover-star-icon-wrapper{
+		width: 35px !important;
+    height: 35px !important;
+	}
+
+	.submit-btn-wrapper{
+		padding: 8px 14px;
+		font-size: 17px;
+		line-height: 24px;
+		min-width: 120px;
+	}
+
+	.mark-done-btn {
+	    margin-top: -40px;
+	}
+
+	.star-poup .common-popup-wrapper,
+	.comet-poup .addcomet-popup-wrapper,
+	.planet-poup .addplanet-popup-wrapper,
+	.moon-poup .addmoon-popup-wrapper,
+	.satellite-poup .addsatellite-popup-wrapper{
+		left: 215px;
+	}
+
+	.common-popup-wrapper,
+	.addcomet-popup-wrapper,
+	.addplanet-popup-wrapper,
+	.addmoon-popup-wrapper,
+	.addsatellite-popup-wrapper{
+		padding: 30px 15px;
+		top: 95px;
+	}
+
+	.show_images .file_img {
+		width: 90px;
+		height: 90px;
+		padding: 10px 5px 5px;
+	}
+
+	.show_images .file_img:not(:last-child){
+		margin-right: 10px;
+	}
+
+	.show_images .file_img span{
+		right: 3px;
+		top: 2px;
+		font-size: 16px;
+	}
+
+	.form-field-wrapper{
+		margin-bottom: 20px;
+	}
+
+	.login-form.modal-form-wrapper .modal-body .form-footer{
+		padding-top: 0;
+	}
+
+	.login-form.modal-form-wrapper .modal-body .form-footer span{
+		margin-bottom: 5px;
+	}
+
+	.page-breadcrumb{
+		left: 50px;
+		top: 10px;
+	}
+
+	.project-left-details{
+		left: 40px;
+		top: 220px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container {
+	  width: 70%;
+	  padding: 7px 0px 0px 7px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container .react-datepicker__header .react-datepicker__current-month, 
+	.form-field-wrapper .react-datepicker .react-datepicker-time__header {
+	  font-size: 15px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	  right: 100px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	  right: 115px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation{
+		top: 14px;
+	}
+
+	.form-field-wrapper .react-datepicker__day-names .react-datepicker__day-name {
+	  width: 25px;
+	  height: 25px;
+	  line-height: 25px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container .react-datepicker__header{
+    margin-bottom: 5px;
+	}
+
+	.form-field-wrapper .react-datepicker .react-datepicker__time-container{
+		width: 30%;
+		padding-top: 7px;
+	}
+
+	.form-field-wrapper .react-datepicker .react-datepicker__time .react-datepicker__time-list-item{
+		font-size: 12px;
+    line-height: 20px;
+	}
+
+	.form-field-wrapper .react-datepicker__month .react-datepicker__week .react-datepicker__day{
+		width: 25px;
+		height: 25px;
+		line-height: 25px;
+	}
+
+	.common-add-form .btn-close,
+	.add-comet-form .btn-close,
+	.add-planet-form .btn-close,
+	.add-moon-form .btn-close,
+	.add-satellite-form .btn-close{
+		right: 0px;
+		top: -20px;
+		font-size: 16px;
+	}
+
+	.form-field-wrapper .form-group.add-member .tag-container{
+		top: 73px;
+	}
+
+	.page-inner-content .banner-image .project-details{
+		top: 85px
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic{
+		width: 285px !important;
+    	height: 285px !important;
+	}
+
+	.user-profile-input-details{
+		width: calc(100% - 360px);
+	}
+
+	.web-logo span{
+		width: 240px !important;
+	}
+
+	.subscription-banner-image{
+		height: calc(100vh - 54px);
+	}
+
+	.subscription-plan-wrapper {
+	  padding: 10px 0 25px 0;
+	}
+
+	.subscription-plan-wrapper h3 {
+	  font-size: 26px;
+	  line-height: 34px;
+	  padding-bottom: 5px;
+	}
+
+	.subscription-plan-grid{
+		width: 24%;
+		margin: 0 20px;
+	}
+
+	.background-white {
+	    padding: 22px;
+	    min-height: 190px;
+	}
+
+	.subscription-content-side{
+		margin-bottom: 35px;
+	}
+
+	.subscription-package-wrapper h4 {
+	  font-size: 22px;
+	  line-height: 26px;
+	}
+
+	.subscription-package-wrapper h5 {
+	  font-size: 24px;
+	  line-height: 28px;
+	}
+
+	.subscription-package-wrapper .free-trial {
+	  font-size: 15px;
+	  line-height: 20px;
+	  margin: 5px 0 0 0;
+	}
+
+	.subscription-package-wrapper h5 span {
+	  font-size: 16px;
+	  line-height: 22px;
+	}
+
+	.subscription-package-wrapper .subscription-btn,
+	.redirect-btn{
+	    padding: 7px 20px;
+	    font-size: 16px;
+	    line-height: 24px;
+	}
+
+	.signup-text-wrapper {
+		margin: 20px auto 0;
+		width: 90%;
+	    padding: 10px;
+	}
+
+	.signup-text-wrapper:last-child {
+	    margin-top: 10px;
+	}
+
+	.signup-text-wrapper p{
+		font-size: 13px;
+		line-height: 20px;
+	}
+
+	.signup-text-wrapper p a{
+		font-size: 15px;
+    	line-height: 24px;
+	}
+
+	.tags-input-container{
+		height: 62px;
+	}
+
+	.form-field-wrapper .form-group.add-member .tags-dropdown-result{
+		top: 96px;
+		padding: 5px 7px;
+		max-height: 67px;
+	}
+
+	.tags-input{
+		font-size: 14px;
+		line-height: 22px;
+		padding: 0px 7px;
+	}
+
+	.tags-input-container .tags-wrapper{
+		padding: 0 0 0px 7px;
+	}
+
+	.tag-item .text{
+		font-size: 11px;
+	}
+
+	.tag-item .close{
+		height: 16px;
+    width: 16px;
+	}
+
+	.tag-item .close>span {
+	  width: 40% !important;
+	  height: 40% !important;
+	  max-width: 40% !important;
+	}
+
+	.tags-input-container .tag-item {
+	  margin: 4px 4px 4px 0;
+	}
+
+	.tag-item{
+		padding: 4px 8px;
+	}
+
+	.form-field-wrapper .form-group.add-member .tags-dropdown-result .tag-item{
+		margin: 0px 4px 4px 0;
+	}
+
+	.form-field-wrapper .form-group.priority-slider .form-select{
+		height: 40px;
+		font-size: 14px;
+		padding: 7px 35px 7px 7px;
+	}
+
+	.add-btn-wrapper{
+		margin-top: 15px;
+    padding-top: 15px;
+	}
+
+	.group-chat-left-panel{
+		width: 300px;
+	}
+
+	.group-chat-section{
+		height: calc(100vh - 146px);
+	}
+
+	.group-chat-wrapper{
+		padding: 35px 0px;
+	}
+
+	.group-chat-title{
+		/*font-size: 24px;
+    line-height: 28px;*/
+		font-size: 28px;
+		line-height: 32px;
+    margin: 0 0 20px 0;
+	}
+
+	.group-member-inbox{
+		padding: 20px;
+	}
+
+	.chat-list{
+		padding: 12px 0px;
+	}
+
+	.member-image{
+		width: 45px;
+    height: 45px;
+    margin-right: 12px;
+	}
+
+	.member-image:before{
+		width: 12px;
+		height: 12px;
+	}
+
+	.member-details .member-name{
+		font-size: 15px;
+	}
+
+	.group-member-message{
+		margin-left: 30px;
+    padding: 25px 15px;
+    width: calc(100% - 330px);
+	}
+
+	.group-message-chat{
+		padding-right: 15px;
+		margin-bottom: 20px;
+	}
+
+	.user-image-wrapper{
+		width: 35px;
+    height: 35px;
+	}
+
+	.user-image-wrapper>span {
+	  width: 55% !important;
+	  height: 55% !important;
+	}
+
+	.chat-input input{
+		padding: 10px 50px 10px 12px;
+	}
+
+	.message-send-btn{
+		width: 35px;
+    height: 35px;
+	}
+
+	.group-member-listing{
+		width: 300px;
+	}
+
+	.form-wrapper .form-group .error-msg, .checkbox-wrapper .error-msg{
+		bottom: -16px;
+		font-size: 13px;
+		line-height: 16px;
+	}
+
+	.form-wrapper .form-group .upload-document-wrapper-commet .error-msg{
+		bottom: -12px;
+	}
+
+	.upcoming-star-wrapper{
+    	padding: 50px 50px 0;
+	}
+
+	.table-wrapper thead tr th{
+		font-size: 16px;
+    line-height: 22px;
+	}
+
+	.upcoming-star .pagination span{
+		width: 32px;
+    height: 32px;
+    font-size: 14px;
+    line-height: 22px;
+	}
+
+	.choose-plan-popup .modal-body, 
+	.new-star-popup-details .modal-body{
+		padding: 20px 20px 30px;
+	}
+
+	.new-star-popup-details .modal-body .form-group label{
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.new-star-popup-details .modal-body .form-group:not(:last-child) {
+	  margin-bottom: 20px;
+	}
+
+	.new-star-popup-details .modal-body .form-group input{
+		font-size: 13px;
+	}
+
+	/* full calendar */
+	.full-calendar-wrapper{
+		padding: 30px 25px;
+		height: calc(100vh - 146px);
+	}
+
+	.full-calendar-section .fc .fc-view-harness {
+	    height: calc(100vh - 275px) !important;
+	}
+
+	.calendar-section {
+	  width: 300px;
+	}
+
+	.calendar-section .react-calendar {
+	  padding: 15px;
+	}
+
+	.calendar-section .react-calendar__navigation__label .react-calendar__navigation__label__labelText{
+		font-size: 15px;
+	}
+
+	.calendar-section .react-calendar__navigation__arrow {
+	  min-width: 20px;
+	  font-size: 16px;
+	}
+
+	.calendar-section .react-calendar__navigation{
+		margin-bottom: 8px;
+		padding-bottom: 8px;
+	}
+
+	.calendar-section .react-calendar__month-view__weekdays{
+		margin-bottom: 8px;
+		padding: 0px 0 8px;
+	}
+
+	.calendar-section .react-calendar__month-view__days .react-calendar__month-view__days__day{
+		padding: 10px 3px;
+		font-size: 13px;
+	}
+
+	.full-calendar-section .fc .fc-header-toolbar{
+		padding-bottom: 10px;
+	}
+
+	.full-calendar-section .fc-toolbar-chunk .fc-toolbar-title {
+	  font-size: 20px;
+	}
+
+	.full-calendar-section .fc .fc-button-group .fc-button.fc-button-primary {
+	  font-size: 13px;
+	  line-height: 18px;
+	  min-width: 80px;
+	}
+
+	.full-calendar-section .fc .fc-col-header thead th .fc-col-header-cell-cushion {
+	  font-size: 15px;
+	  line-height: 20px;
+	}
+
+	.full-calendar-section .fc-direction-ltr .fc-daygrid-event.fc-event-end{
+		padding: 3px;
+	}
+
+	.full-calendar-section .fc-h-event .fc-event-title {
+	  font-size: 12px;
+	}
+
+	.modal-body .half-field-wrapper label, 
+	.form-field-wrapper .recurring-switch-wrapper .form-label label{
+		font-size: 16px;
+    line-height: 22px;
+	}
+
+	.delete-task-popup .modal-body {
+	  padding: 30px 15px;
+	}
+
+	.delete-task-popup .modal-body .popup-title{
+		font-size: 24px;
+    line-height: 30px;
+	}
+
+	.delete-task-popup .modal-footer{
+		padding: 10px 15px 30px;
+	}
+
+	.calendar-section .react-calendar__year-view__months .react-calendar__year-view__months__month, .calendar-section .react-calendar__decade-view__years .react-calendar__decade-view__years__year, .calendar-section .react-calendar__century-view__decades .react-calendar__century-view__decades__decade{
+		font-size: 13px;
+	}
+	/* */
+
+	.upcoming-star-header .upcoming-star-title{
+		font-size: 22px;
+	}
+
+	.upcoming-star .pagination{
+		padding: 10px 0 20px;
+	}
+
+	.show-planets, 
+	.show-moon{
+		padding-left: 25px;
+	}
+
+	/* tree view */
+	.treeview-section{
+		padding: 30px 40px 0;
+		height: calc(100vh - 146px);
+	}
+
+	.treeview-structure {
+	  width: 95%;
+	}
+
+	.treeview-structure .project-name-details {
+	  top: -55px;
+	}
+
+	.treeview-filter{
+		padding: 15px 20px;
+	}
+
+	.treeview-title{
+		font-size: 24px;
+    line-height: 28px;
+	}
+
+	.tree-search-wrapper .form-control{
+		padding: 6px 35px 6px 12px;
+		min-width: 367px;
+		min-height: 45px;
+	}
+
+	.treeview-search{
+		width: 15px;
+		height: 15px;
+		right: 12px;
+	}
+
+	.treeview-list{
+		padding: 20px;
+		height: calc(100vh - 380px);
+	}
+
+	.treeview-filter-dropdown{
+		height: 45px;
+		min-width: 130px;
+	}
+	/* */
+
+	/* footer */
+	.page-footer{
+		padding: 10px 0;
+	}
+
+	.footer-section p, .page-footer-content p{
+		font-size: 13px;
+	}
+
+	.social-links li:not(:last-child) {
+	  margin-right: 10px;
+	}
+
+	.social-links li a{
+		width: 34px;
+    height: 34px;
+	}
+
+	.social-links li a img {
+	  width: 18px !important;
+	  height: 18px !important;
+	}
+	/* */
+
+	.page-inner-content .banner-image{
+	  height: calc(100vh - 54.5px);
+	}
+
+	.upcoming-star-wrapper,
+	.page-not-found-wrapper{
+		height: calc(100vh - 146px);
+	}
+
+	.banner-spiral {
+		width: 850px;
+		margin-top: 45px;
+	}
+
+		.center-circle-wrapper {
+	  width: 115px;
+	  height: 115px;
+	  border-radius: 50%;
+	  margin: -50px 0px 0 -30px;
+	}
+
+	#circle-img-31 .project-name, 
+	#circle-img-32 .project-name, 
+	#circle-img-33 .project-name, 
+	#circle-img-34 .project-name, 
+	#circle-img-34 .project-name, 
+	#circle-img-35 .project-name, 
+	#circle-img-36 .project-name {
+	  font-size: 8px;
+	  line-height: 10px;
+	}
+
+	#circle-img-22 .project-name, 
+	#circle-img-23 .project-name {
+	  font-size: 10px;
+	  line-height: 14px;
+	}
+
+	#circle-img-1 .project-name, 
+	#circle-img-13 .project-name, 
+	#circle-img-24 .project-name, 
+	#circle-img-29 .project-name, 
+	#circle-img-30 .project-name {
+	  font-size: 11px;
+	  line-height: 15px;
+	}
+
+	#circle-img-2 .project-name, 
+	#circle-img-12 .project-name, 
+	#circle-img-25 .project-name, 
+	#circle-img-26 .project-name, 
+	#circle-img-27 .project-name, 
+	#circle-img-28 .project-name {
+	  font-size: 13px;
+	  line-height: 18px;
+	}
+
+	#circle-img-3 .project-name, 
+	#circle-img-4 .project-name, 
+	#circle-img-5 .project-name, 
+	#circle-img-11 .project-name, 
+	#circle-img-14 .project-name, 
+	#circle-img-15 .project-name, 
+	#circle-img-17 .project-name, 
+	#circle-img-18 .project-name, 
+	#circle-img-21 .project-name {
+	  font-size: 14px;
+	  line-height: 20px;
+	}
+
+	#circle-img-8 .project-name, 
+	#circle-img-9 .project-name, 
+	#circle-img-10 .project-name, 
+	#circle-img-16 .project-name, 
+	#circle-img-19 .project-name, 
+	#circle-img-20 .project-name {
+	  font-size: 16px;
+	  line-height: 22px;
+	}
+
+	#circle-img-6 .project-name, 
+	#circle-img-7 .project-name {
+	  font-size: 18px;
+	  line-height: 24px;
+	}
+
+	#circle-img-1 {
+	  width: 50px;
+	  height: 50px;
+	  left: 400px;
+	}
+
+	#circle-img-2 {
+	  width: 60px;
+	  height: 60px;
+	  right: 230px;
+	}
+
+	#circle-img-3 {
+	  width: 70px;
+	  height: 70px;
+	  right: 60px;
+	  bottom: 275px;
+	}
+
+	#circle-img-4 {
+	  width: 80px;
+	  height: 80px;
+	  right: -40px;
+	  top: 150px;
+	}
+
+	#circle-img-5 {
+	  width: 90px;
+	  height: 90px;
+	  right: 85px;
+	  bottom: 30px;
+	}
+
+	#circle-img-6 {
+	  width: 105px;
+	  height: 105px;
+    right: 230px;
+    bottom: -25px;
+	}
+
+	#circle-img-7 {
+	  width: 110px;
+	  height: 110px;
+	  right: 380px;
+	  bottom: -35px;
+	}
+
+	#circle-img-8 {
+	  width: 100px;
+	  height: 100px;
+	  left: 210px;
+	  bottom: -20px;
+	}
+
+	#circle-img-9 {
+	  width: 90px;
+	  height: 90px;
+	  left: 50px;
+	  bottom: 25px;
+	}
+
+	.second-spiral {
+	  width: 680px;
+	  height: 240px;
+	}
+
+	#circle-img-10 {
+	  width: 80px;
+	  height: 80px;
+	  left: -110px;
+	  top: 80px;
+	}
+
+	#circle-img-11 {
+	  width: 75px;
+	  height: 75px;
+	  left: 20px;
+	  top: -15px;
+	}
+
+	#circle-img-12 {
+	  width: 60px;
+	  height: 60px;
+	  left: 200px;
+	  top: -40px;
+	}
+
+	#circle-img-13 {
+	  width: 50px;
+	  height: 50px;
+	  left: 315px;
+	  top: -30px;
+	}
+
+	#circle-img-14 {
+	  width: 60px;
+	  height: 60px;
+	  right: 190px;
+	  top: -20px;
+	}
+
+	#circle-img-15 {
+	  width: 70px;
+	  height: 70px;
+	  right: 70px;
+	  top: 0px;
+	}
+
+	#circle-img-16 {
+	  width: 80px;
+	  height: 80px;
+	  right: 10px;
+	  bottom: 80px;
+	}
+
+	#circle-img-17 {
+	  width: 70px;
+	  height: 70px;
+	  right: 100px;
+	  bottom: 10px;
+	}
+
+	#circle-img-18 {
+	  width: 65px;
+	  height: 65px;
+	  right: 230px;
+	  bottom: -10px;
+	}
+
+	.third-spiral {
+	  width: 460px;
+	  height: 140px;
+	}
+
+	#circle-img-19 {
+	  width: 80px;
+	  height: 80px;
+	  left: -40px;
+	  bottom: -50px;
+	}
+
+	#circle-img-20 {
+	  width: 75px;
+	  height: 75px;
+	  left: -125px;
+	  top: 30px;
+	}
+
+	#circle-img-21 {
+	  width: 60px;
+	  height: 60px;
+	  left: 0px;
+	  top: -37px;
+	}
+
+	#circle-img-22 {
+	  width: 40px;
+	  height: 40px;
+	  left: 135px;
+	  top: -35px;
+	}
+
+	#circle-img-23 {
+	  width: 40px;
+	  height: 40px;
+	  right: 135px;
+	  top: -30px;
+	}
+
+	#circle-img-24 {
+	  width: 45px;
+	  height: 45px;
+	  right: 50px;
+	  top: -10px;
+	}
+
+	#circle-img-25 {
+	  width: 55px;
+	  height: 55px;
+	  right: 10px;
+	  bottom: 40px;
+	}
+
+	#circle-img-26 {
+	  width: 55px;
+	  height: 55px;
+	  right: 80px;
+	  bottom: 0px;
+	}
+
+	#circle-img-27 {
+	  width: 55px;
+	  height: 55px;
+	  right: 200px;
+	  bottom: -18px;
+	}
+
+	.fourth-spiral {
+	  width: 320px;
+	  height: 80px;
+	}
+
+	#circle-img-28 {
+	  width: 55px;
+	  height: 55px;
+	  left: -10px;
+	  bottom: -40px;
+	}
+
+	#circle-img-29 {
+	  width: 50px;
+	  height: 50px;
+	  left: -90px;
+	  top: 15px;
+	}
+
+	#circle-img-30 {
+	  width: 45px;
+	  height: 45px;
+	  left: 0px;
+	  top: -35px;
+	}
+
+	#circle-img-31 {
+	  width: 40px;
+	  height: 40px;
+	  right: 35px;
+	  top: -15px;
+	}
+
+	#circle-img-32 {
+	  width: 35px;
+	  height: 35px;
+	  right: 80px;
+	  top: 45px;
+	}
+
+	#circle-img-33 {
+	  width: 35px;
+	  height: 35px;
+	  left: 115px;
+	  bottom: -10px;
+	}
+
+	#circle-img-34 {
+	  width: 40px;
+	  height: 40px;
+	  left: 55px;
+	  bottom: -10px;
+	}
+
+	#circle-img-35 {
+	  width: 40px;
+	  height: 40px;
+	  left: -15px;
+	  top: 15px;
+	}
+
+	#circle-img-36 {
+	  width: 35px;
+	  height: 35px;
+	  right: 95px;
+	  top: 5px;
+	}
+
+	.page-breadcrumb {
+	  left: 40px;
+	  top: 10px;
+	}
+
+	.circle-center-name{
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.satellite-page #circle-img-29{
+		width: 60px;
+		height: 60px;
+		left: -100px;
+	}
+
+	.satellite-page #circle-img-4 {
+	  width: 120px;
+	  height: 120px;
+	  right: -40px;
+	  top: 130px;
+	}
+
+	.satellite-page #circle-img-9 {
+	  width: 110px;
+	  height: 110px;
+	  bottom: 15px;
+	}
+
+	.satellite-page #circle-img-11{
+		top: -10px;
+	}
+
+	.satellite-page #circle-img-18 {
+	  width: 100px;
+	  height: 100px;
+	}
+
+	.table-wrapper{
+		height: calc(100vh - 420px);
+	}
+
+	.user-detail-dropdown .dropdown-menu.show{
+		min-width: 230px;
+    	padding: 25px 15px 15px;
+	}
+
+	.user-details{
+		margin-bottom: 25px;
+	}
+
+	.circle-banner-image .project-details{
+		top: 85px;
+	}
+
+	.circle-banner-image{
+		height: calc(100vh - 54px);
+	}
+
+	.new-star-popup-details .modal-body .form-group .error-msg {
+	  top: 72px;
+	  font-size: 13px;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img{
+		width: 55px;
+	    height: 55px;
+	    margin: 0px 6px 6px 0;
+	    padding: 3px;
+	}
+
+	.show-subscription-content-wrapper{
+		height: calc(80% - 80px);
+	}
+
+	.card-details-wrapper{
+		height: calc(100vh - 165px);
+	}
+
+	.plan-details-wrapper.upcoming-star-wrapper .table-wrapper {
+	    min-height: calc(100vh - 450px);
+	}
+
+	.notification-title{
+		font-size: 26px;
+    	line-height: 32px;
+	}
+
+	.notification .dropdown-menu .dropdown-item{
+		padding: 8px 12px;
+	}
+
+	.notification-image{
+		width: 35px;
+    	height: 35px;
+	}
+
+	.notification-image svg{
+		width: 14px;
+	}
+
+	.notification-data-wrapper {
+	    width: calc(100% - 45px);
+	}
+
+	.notification-name{
+		font-size: 15px;
+		margin-bottom: 8px;
+	}
+
+	.notification-date{
+		top: 8px;
+	}
+
+	.user-view-profile .user-profile-form .form-group label{
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.profile-input-value{
+		font-size: 16px;
+    	line-height: 22px;
+	}
+
+	.pagination_loader .spinner-border{
+		width: 24px;
+		height: 24px;
+	}
+
+	.page-not-found-title {
+	    font-size: 210px;
+	}
+
+	.not-found-subtitle {
+	    font-size: 36px;
+	    line-height: 44px;
+	}
+
+	.calendar-add-task .modal-body .form-group .error-msg, .calendar-edit-task .modal-body .form-group .error-msg{
+		font-size: 13px;
+	}
+
+	.full-calendar-section .fc .fc-view-harness .fc-popover .fc-popover-body {
+	    max-height: 140px;
+	}
+
+	.user-view-profile .form-group{
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.user-view-profile .user-profile-form .form-group label{
+		margin-right: 0px;
+    	margin-bottom: 10px;
+	}
+
+	.group-chat-section .back-btn {
+	    left: 50px;
+	    top: 20px;
+	}
+
+	.treeview-wrapper .back-btn{
+		left: 50px;
+	}
+
+}
+
+@media (max-width: 1399px){
+
+	.inner-page-header .nav-header {
+	  padding: 12px 40px;
+	}
+
+	.profile-edit-section {
+	  height: calc(100vh - 126px);
+	  padding: 30px;
+	}
+
+	.form-wrapper .form-group label,
+	.planet-form-wrapper .form-group label,
+	.moon-form-wrapper .form-group label,
+	.satellite-form-wrapper .form-group label{
+		font-size: 15px;
+	}
+
+	.modal-form-wrapper .modal-dialog {
+	  max-width: 550px;
+	}
+
+	.main-page-header {
+	  padding: 15px 30px 0;
+	}
+
+	.nav-header .navbar-brand {
+	  width: 200px;
+	}
+
+	.time-sorting .nav-tabs .nav-link {
+		padding: 4px 8px;
+		min-width: 70px;
+		font-size: 13px;
+	}
+
+	.common-btn {
+	  padding: 10px 14px;
+	  font-size: 16px;
+	  line-height: 24px;
+	  min-width: 150px;
+	}
+
+	.sub-title {
+	  font-size: 30px;
+	  line-height: 38px;
+	}
+
+	.section-main-title {
+	  font-size: 52px;
+	  line-height: 64px;
+	}
+
+	.section-button-wrapper {
+	  margin: 30px 0px;
+	}
+
+	.section-info-text {
+	  font-size: 14px;
+	  line-height: 22px;
+	}
+
+	.download-app-links{
+		margin-top: 35px;
+	}
+
+	.download-app-links .download-link{
+		width: 150px;
+	}
+
+	.section-sub-title {
+	  font-size: 38px;
+	  line-height: 48px;
+	}
+
+	.app-universe-content, 
+	.bring-order-description, 
+	.bring-order-description p{
+		font-size: 14px;
+    line-height: 22px;
+	}
+
+	.bring-order {
+	  padding-top: 80px;
+	}
+
+	.section-sub-title {
+	  font-size: 34px;
+	  line-height: 44px;
+	}
+
+	.feature-benefits {
+	  padding-top: 140px;
+	}
+
+	.feature-center{
+		margin-top: 60px;
+	}
+
+	.feature-left-side, .feature-right-side {
+	  width: 450px;
+	}
+
+	.feature-name {
+	  font-size: 14px;
+	  line-height: 22px;
+	  margin-top: 15px;
+	}
+
+	.feature-left-side .feature-left-img-1-box,
+	.feature-left-side .feature-left-img-2-box,
+	.feature-left-side .feature-left-img-3-box,
+	.feature-left-side .feature-left-img-4-box,
+	.feature-right-side .feature-right-img-1-box,
+	.feature-right-side .feature-right-img-2-box,
+	.feature-right-side .feature-right-img-3-box,
+	.feature-right-side .feature-right-img-4-box{
+		width: 80%;
+	}
+
+	.feature-left-img-2, 
+	.feature-left-img-4 {
+	  left: 20px;
+	}
+
+	.feature-right-img-2, 
+	.feature-right-img-4 {
+	  right: 20px;
+	}
+
+	.feature-left-img-3{
+		right: 100px;
+	}
+
+	.feature-right-img-3{
+		left: 100px;
+	}
+
+	.contact-us-section {
+	  padding-top: 80px;
+	}
+
+	.contact-sub-title {
+	  font-size: 26px;
+	  line-height: 32px;
+	  margin-bottom: 15px;
+	}
+
+	.contact-form-wrapper {
+	  margin-top: 45px;
+	  padding: 45px;
+	}
+
+	.contact-form-wrapper .form-group {
+	  margin-bottom: 35px;
+	}
+
+	.contact-form-wrapper .form-group .form-control{
+		padding: 0 0 15px 0;
+    font-size: 16px;
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item {
+	  font-size: 18px;
+	  line-height: 24px;
+	}
+
+	.project-name-details .project-page-name{
+		font-size: 32px;
+		line-height: 40px;
+	}
+
+	.project-name-details .project-type {
+	  font-size: 17px;
+	  line-height: 22px;
+	}
+
+	.project-addition a {
+	  font-size: 14px;
+	}
+
+	.project-addition a .add-icon {
+	  width: 25px;
+	  height: 25px;
+	  font-size: 20px;
+	}
+
+	.project-addition {
+	  margin-bottom: 6px;
+	}
+
+	.add-project-btn {
+	  font-size: 14px;
+	  padding: 5px 25px 5px 10px;
+	}
+
+	.add-project-btn .star-icon-wrapper, 
+	.add-project-btn:hover .hover-star-icon-wrapper {
+	  width: 32px !important;
+	  height: 32px !important;
+	}
+
+	.add-project-btn .star-icon-wrapper img, 
+	.add-project-btn .hover-star-icon-wrapper img {
+	  width: 16px !important;
+	}
+
+	.main-page-content {
+	  margin-top: -80px;
+	}
+
+	.page-inner-content .banner-image{
+	  height: calc(100vh - 46px);
+	}
+
+	.upcoming-star-wrapper,
+	.page-not-found-wrapper{
+	  height: calc(100vh - 126px);		
+	}
+
+	.star-poup .add-project-btn .hover-star-icon-wrapper{
+		width: 32px !important;
+    	height: 32px !important;
+	}
+
+	.common-add-form .btn-close,
+	.add-comet-form .btn-close,
+	.add-planet-form .btn-close,
+	.add-moon-form .btn-close,
+	.add-satellite-form .btn-close{
+	    top: -10px;
+	    right: 0px;
+	    font-size: 15px;
+	}
+
+	.star-poup .common-popup-wrapper,
+	.comet-poup .addcomet-popup-wrapper,
+	.planet-poup .addplanet-popup-wrapper,
+	.moon-poup .addmoon-popup-wrapper,
+	.satellite-poup .addsatellite-popup-wrapper{
+	  left: 195px;
+	}
+
+	.common-popup-wrapper .form-wrapper .form-group label,
+	.addcomet-popup-wrapper .form-wrapper .form-group label,
+	.addplanet-popup-wrapper .planet-form-wrapper .form-group label,
+	.addmoon-popup-wrapper .form-wrapper .form-group label,
+	.addsatellite-popup-wrapper .form-wrapper .form-group label{
+		margin-bottom: 10px;
+	}
+
+	.submit-btn-wrapper {
+		padding: 8px 12px;
+		font-size: 15px;
+		line-height: 22px;
+		min-width: 110px;
+	}
+
+	.mark-done-btn {
+	    margin-top: -38px;
+	}
+
+	.project-left-details {
+	  left: 30px;
+	  top: 180px;
+	}
+
+	.common-popup-wrapper,
+	.addcomet-popup-wrapper,
+	.addplanet-popup-wrapper,
+	.addmoon-popup-wrapper,
+	.addsatellite-popup-wrapper{
+	  padding: 20px 15px;
+	  top: 90px;
+	  max-height: 565px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container .react-datepicker__header .react-datepicker__current-month, 
+	.form-field-wrapper .react-datepicker .react-datepicker-time__header {
+	  font-size: 14px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	  right: 80px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	  right: 90px;
+	}
+
+	.form-field-wrapper .react-datepicker__day-names .react-datepicker__day-name {
+	  width: 20px;
+	}
+
+	.form-field-wrapper .react-datepicker__month-container{
+    width: 72%;
+	}
+
+	.form-field-wrapper .react-datepicker .react-datepicker__time-container {
+		width: 28%;
+	}
+
+	.form-field-wrapper .react-datepicker .react-datepicker__time .react-datepicker__time-list-item {
+	  font-size: 11px;
+	  line-height: 19px;
+	  padding: 3px 5px !important;
+	}
+
+	.form-field-wrapper .react-datepicker__month .react-datepicker__week .react-datepicker__day {
+	  font-size: 11px;
+	  width: 22px;
+    height: 22px;
+    line-height: 22px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation-icon--next::before,
+	.form-field-wrapper .react-datepicker__navigation-icon--previous::before{
+	  height: 6px;
+	  width: 6px;
+	}
+
+	.show_images .file_img {
+    width: 75px;
+    height: 75px;
+    padding: 10px 3px 3px;
+	}
+
+	.form-wrapper .form-field-wrapper .input-field-wrapper .form-control, 
+	.form-field-wrapper .form-group.add-member textarea,
+	.form-wrapper .textarea-field-wrapper .form-control{
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	.form-wrapper .textarea-field-wrapper .form-control{
+		min-height: 55px;
+	}
+
+	.common-popup-details .modal-header .modal-title {
+	  font-size: 20px;
+	}
+
+	.common-popup-details .modal-header .btn-close {
+	  padding: 0 3px;
+	  width: 12px;
+	  height: 12px;
+	}
+
+	.common-popup-details .modal-body table thead tr th:first-child, 
+	.common-popup-details .modal-body table tbody tr td:first-child {
+	  padding-left: 14px;
+	}
+
+	.common-popup-details .modal-body table thead tr th{
+		padding: 10px 3px;
+    font-size: 15px;
+	}
+
+	.common-popup-details .modal-body table thead tr th:last-child, 
+	.common-popup-details .modal-body table tbody tr td:last-child {
+	  padding-right: 14px;
+	}
+
+	.common-popup-details .modal-body table tbody tr td{
+		font-size: 13px;
+    padding: 6px 3px;
+	}
+
+	.common-popup-details .modal-body table tbody tr td .popup-redirect-links{
+		width: 27px;
+    height: 27px;
+	}
+
+	.common-popup-details .modal-body table tbody tr td .popup-redirect-links>span{
+		width: 70% !important;
+    height: 70% !important;
+	}
+
+	.common-popup-details .modal-body .pagination{
+		margin: 12px 0;
+	}
+
+	.common-popup-details .modal-body .pagination span{
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+	}
+
+	.common-popup-details .modal-footer .btn {
+	  font-size: 14px;
+	  padding: 8px 20px;
+	}
+
+	.user-profile-section {
+	  width: 280px;
+	}
+
+	.user-profile-input-details {
+		margin-left: 40px;
+		padding-left: 30px;
+	  width: calc(100% - 320px);
+	}
+
+	.form-group.user-profile-address .form-control {
+	  min-height: 120px;
+	}
+
+	.subscription-banner-image{
+		padding: 15px 30px 0px;
+	}
+
+	.web-logo span {
+	  width: 220px !important;
+	}
+
+	.subscription-banner-image .project-name-details {
+	  top: 30px;
+	}
+
+	.form-field-wrapper .form-group.add-member .tags-dropdown-result{
+		top: 94px;
+	}
+
+	.group-chat-left-panel {
+	  width: 250px;
+	}
+
+	.group-chat-title {
+/*	  font-size: 22px;
+	  line-height: 26px;*/
+	  font-size: 25px;
+    line-height: 30px;
+	}
+
+	.group-chat-left-panel .chat-icon-image{
+    width: 150px;
+    height: 150px;
+	}
+
+	.group-chat-left-panel .chat-icon-image svg{
+		width: 100%;
+		height: 100%;
+	}
+
+	.group-chat-section{
+		height: calc(100vh - 126px);
+	}
+
+	.group-chat-wrapper {
+		padding: 30px 0;
+	}
+
+	.group-member-inbox {
+	  padding: 15px 25px;
+	}
+
+	.member-image {
+	  width: 40px;
+	  height: 40px;
+	  margin-right: 10px;
+	}
+
+	.member-details .member-name {
+	  font-size: 14px;
+	  margin-bottom: 4px;
+	}
+
+	.member-details .chat-date{
+		font-size: 11px;
+		line-height: 16px;
+	}
+
+	.group-member-message{
+		margin-left: 25px;
+		padding: 15px;
+	}
+
+	.group-message-chat {
+	  padding-right: 10px;
+	  margin-bottom: 15px;
+	}
+
+	.message-wrapper{
+		width: 70%;
+	}
+
+	.group-message-chat .message-wrapper:not(:first-child) {
+	  padding-top: 25px;
+	}
+
+	.message{
+		font-size: 13px;
+		line-height: 20px;
+		padding: 6px 12px;
+	}
+
+	.time-date{
+		font-size: 10px;
+		line-height: 16px;
+	}
+
+	.incoming-member-details .sender-name{
+		font-size: 13px;
+    line-height: 20px;
+	}
+
+	.chat-input input {
+	  padding: 8px 40px 8px 10px;
+	  font-size: 14px;
+	}
+
+	.message-send-btn {
+	  width: 30px;
+	  height: 30px;
+	  right: 5px;
+	}
+
+	.upcoming-star-wrapper {
+	  padding: 40px 40px 0;
+	}
+
+	.table-wrapper tbody tr td{
+		font-size: 13px;
+		line-height: 18px;	
+	}
+
+	.table-wrapper tbody tr td.action-btn a{
+		width: 27px;
+    height: 27px;
+	}
+
+	.upcoming-star .pagination span {
+	  width: 30px;
+	  height: 30px;
+	  font-size: 13px;
+	  line-height: 20px;
+	}
+
+	.delete-new-star.new-star-popup-details .modal-body{
+		padding: 20px 20px 10px;
+	}
+
+	.contact-us-popup .modal-body{
+		padding: 25px 15px;
+	}
+
+	.new-star-popup-details .modal-body .popup-title{
+		font-size: 24px;
+		line-height: 30px;
+	}
+
+	.header-contact-info{
+		width: 22px;
+	}
+
+	.contact-us-popup .modal-body .contact-btn .btn{
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	/* full calendar */
+	.full-calendar-wrapper {
+	  padding: 25px 20px;
+	  height: calc(100vh - 126px);
+	}
+
+	.full-calendar-section .fc .fc-view-harness {
+	    height: calc(100vh - 240px) !important;
+	}
+
+	.calendar-section {
+	  width: 270px;
+	}
+
+	.calendar-section .react-calendar {
+	  padding: 12px;
+	}
+
+	.calendar-section .react-calendar__navigation__label .react-calendar__navigation__label__labelText {
+	  font-size: 14px;
+	}
+
+	.calendar-section .react-calendar__navigation__label{
+		padding: 2px;
+	}
+
+	.calendar-section .react-calendar__navigation__arrow {
+		font-size: 15px;
+	}
+
+	.calendar-section .react-calendar__month-view__weekdays__weekday {
+	  font-size: 11px;
+	}
+
+	.calendar-section .react-calendar__month-view__days .react-calendar__month-view__days__day{
+		padding: 9px 2px;
+	}
+
+	.full-calendar-section .fc-toolbar-chunk .fc-toolbar-title {
+	  font-size: 18px;
+	}
+
+	.full-calendar-section .fc .fc-button-group .fc-button {
+	  padding: 7px;
+	}
+
+	.full-calendar-section .fc .fc-header-toolbar{
+		margin-bottom: 15px !important;
+	}
+
+	.full-calendar-section .fc .fc-button-group .fc-button.fc-button-primary{
+    min-width: 75px;
+	}
+
+	.full-calendar-section .fc .fc-col-header thead th .fc-col-header-cell-cushion {
+	  font-size: 14px;
+	  line-height: 18px;
+	}
+
+	.full-calendar-section .fc-h-event .fc-event-title {
+	  font-size: 11px;
+	}
+
+	.full-calendar-section .fc thead tr th colgroup col, 
+	.full-calendar-section .fc .fc-daygrid-body colgroup col, 
+	.full-calendar-section .fc .fc-timegrid-body .fc-timegrid-slots colgroup col, 
+	.full-calendar-section .fc .fc-timegrid-body .fc-timegrid-cols colgroup col{
+		width: 50px !important;
+	}
+
+	.full-calendar-section .fc .fc-timeGridWeek-view .fc-timegrid-axis-cushion, 
+	.full-calendar-section .fc .fc-timeGridWeek-view .fc-timegrid-slot-label-cushion, 
+	.full-calendar-section .fc .fc-timeGridDay-view .fc-timegrid-axis-cushion, 
+	.full-calendar-section .fc .fc-timeGridDay-view .fc-timegrid-slot-label-cushion{
+		font-size: 11px;
+	}
+
+	.common-popup-details.calendar-add-task .modal-dialog, 
+	.common-popup-details.calendar-edit-task .modal-dialog{
+    max-width: 900px;
+	}
+
+	.calendar-add-task .modal-body, 
+	.calendar-edit-task .modal-body {
+	  padding: 25px;
+	}
+
+	.modal-body .half-field-wrapper label, 
+	.form-field-wrapper .recurring-switch-wrapper .form-label label {
+	  font-size: 15px;
+	  line-height: 20px;
+	}
+
+	.modal-body .half-field-wrapper select, 
+	.modal-body .half-field-wrapper input{		
+	    height: 40px;
+	    font-size: 14px;
+	    line-height: 22px;
+	}
+
+	.calendar-add-task .modal-body .date-input-wrapper .placeholder-icon-wrap {
+	    right: 7px;
+	    top: 40px;
+	}
+
+	.calendar-add-task .modal-body .date-input-wrapper .placeholder-icon-wrap>span{
+		width: 20px !important;
+	}
+
+	.modal-body .half-field-wrapper input{
+		padding: 6px 8px;
+	}
+
+	.calendar-add-task .modal-body .form-group, 
+	.calendar-edit-task .modal-body .form-group{
+		margin-bottom: 25px;
+	}
+
+	.recurring-switch-wrapper .recurring-switch .switch{
+		width: 45px;
+    height: 17px;
+	}
+
+	.recurring-switch-wrapper .recurring-switch .switch[type="checkbox"]::after{
+		width: 22px;
+		height: 22px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	  right: 130px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	  right: 145px;
+	}
+
+	.form-value-fields label,
+	.form-value-fields .form-value,
+	.calendar-edit-task .modal-body .half-field-wrapper label,
+	.calendar-edit-task .modal-body .form-value{
+		font-size: 14px;
+    	line-height: 20px;
+	}
+
+	.calendar-edit-task .modal-body .form-value, .show-task-details-popup .modal-body .form-value{
+		font-size: 15px;
+    	line-height: 22px;
+    	width: calc(100% - 145px);
+	}
+
+	.full-calendar-section .fc .fc-v-event .fc-event-time{
+		font-size: 11px;
+    line-height: 17px;
+		background-size: 10px;
+		background-position: left top 3px;
+		padding-left: 13px;
+	}
+
+	.full-calendar-section .fc .fc-v-event .fc-event-title{
+		font-size: 13px;
+	}
+
+	.delete-task-popup .modal-body {
+	  padding: 20px 15px 25px;
+	}
+
+	.delete-task-popup .modal-body .popup-title{
+		font-size: 20px;
+    line-height: 28px;
+	}
+
+	.delete-task-popup .modal-footer {
+	  padding: 0px 15px 25px;
+	}
+
+	.calendar-add-task .modal-body .form-label, 
+	.calendar-edit-task .modal-body .form-label{
+		margin-bottom: 7px;
+	}
+
+	.form-field-wrapper .recurring-switch-wrapper .form-label, 
+	.form-field-wrapper .recurring-switch-wrapper .form-label label{
+		margin-bottom: 0px;
+	}
+
+	.calendar-section .react-calendar__year-view__months .react-calendar__year-view__months__month, .calendar-section .react-calendar__decade-view__years .react-calendar__decade-view__years__year, .calendar-section .react-calendar__century-view__decades .react-calendar__century-view__decades__decade{
+		font-size: 12px;
+		padding: 10px 2px;
+	}
+	/* */
+
+	.upcoming-star-header .upcoming-star-title {
+	  font-size: 20px;
+	}
+
+	.notification-title {
+	    font-size: 24px;
+	    line-height: 28px;
+	    padding: 12px 7px;
+	}
+
+	.dropdown-item-wrapper{
+		max-height: 220px;
+	}
+
+	.notification .dropdown-menu.show .notification-listing-dropdown {
+		width: 350px;
+	}
+
+	.notification .dropdown-menu .dropdown-item{
+		padding: 8px;
+	}
+
+	.notification-name{
+		font-size: 14px;
+	}
+
+	.notification-date{
+		font-size: 10px;
+    	line-height: 16px;
+    	top: 6px;
+	}
+
+	.project-date .date-lable{
+		font-size: 12px;
+	}
+
+	.project-date .date-value{
+		font-size: 13px;
+	}
+
+	.start-date {
+	    margin-bottom: 6px;
+	}
+
+	.show-planets, 
+	.show-moon {
+	  padding-left: 20px;
+	}
+
+	.planet-wrapper.planet-active, 
+	.moon-wrapper.moon-active {
+	  margin-bottom: 6px;
+	}
+
+	/* tree view */
+	.treeview-section {
+	  padding: 20px 30px 0 30px;
+	  height: calc(100vh - 126px);
+	}
+
+	.treeview-structure {
+	  width: 100%;
+	}
+
+	.treeview-structure .project-name-details {
+	  top: -45px;
+	}
+
+	.treeview-universe-img {
+	  width: 45%;
+	}
+
+	.treeview-listing{
+		width: calc(100% - 48%);
+	}
+
+	.treeview-title {
+	  font-size: 22px;
+	  line-height: 26px;
+	}
+
+	.treeview-filter {
+	  padding: 12px 20px;
+	}
+
+	.tree-search-wrapper .form-control{
+		min-width: 300px;
+	}
+
+	.treeview-filter-dropdown {
+	  min-width: 130px;
+	}
+
+	.treeview-listing .treeview-name{
+		padding: 7px 10px 7px 35px;
+		font-size: 16px;
+		line-height: 26px;
+		background-size: 20px;
+	}
+
+	.treeview-button{
+		right: 10px;
+    top: 12px;
+    background-size: 17px;
+    width: 17px;
+    height: 17px;
+	}
+
+	.treeview-list{
+		height: calc(100vh - 340px);
+	}
+	/* */
+
+	.page-footer {
+	  padding: 8px 0;
+	}
+
+	.footer-section p, .page-footer-content p {
+	  font-size: 12px;
+	}
+
+	.social-links li a {
+	  width: 30px;
+	  height: 30px;
+	}
+
+	.social-links li a img {
+	  width: 14px !important;
+	  height: 14px !important;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__month-container{
+		padding: 10px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__month-container .react-datepicker__header .react-datepicker__current-month{
+		font-size: 15px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous{
+		top: 16px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__navigation.react-datepicker__navigation--next{
+		top: 16px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__day-names .react-datepicker__day-name{
+		font-size: 11px;
+	}
+
+	.table-wrapper {
+	    height: calc(100vh - 380px);
+	}
+
+	.user-detail-dropdown .dropdown-menu.show {
+		min-width: 200px;
+		padding: 20px 10px 10px;
+		margin-right: -22px !important;
+	}
+
+	.user-details {
+	    margin-bottom: 15px;
+	}
+
+	.user-name{
+		margin-bottom: 2px;
+	}
+
+	.user-name, 
+	.user-email, 
+	.account-type,
+	.logout-link,
+	.user-profile-details li .dropdown-menu-link{
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	.user-profile-details li{
+		margin-bottom: 8px;
+		padding-bottom: 8px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before{
+    	right: 35px;
+	}
+
+	.circle-banner-image{
+		height: calc(100vh - 46px);
+	}
+
+	.mobile-project-name {
+	    font-size: 12px;
+	}
+
+	.notification .dropdown-menu.show{
+		margin-top: 10px !important;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+	    width: 280px !important;
+	    height: 280px !important;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img {
+	    width: 45px;
+	    height: 45px;
+	    margin: 0px 4px 4px 0;
+	}
+
+	.subscription-banner-image {
+	    height: calc(100vh - 46px);
+	}
+
+	.signup-text-wrapper p:not(:last-child) {
+	    margin-bottom: 10px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - 72px);
+	}
+
+	.card-details-wrapper {
+	    height: calc(100vh - 135px);
+	}
+
+	.full-calendar-section .fc .fc-toolbar-chunk:first-child .fc-today-button{
+		padding: 6px 14px;
+	}
+
+	.plan-details-wrapper.upcoming-star-wrapper .table-wrapper {
+	    min-height: calc(100vh - 400px);
+	}
+
+	.form-label-wrapper{
+		max-width: 145px;
+	}
+
+	.dropdown-item-wrapper .nodata{
+	  padding: 10px 5px;
+	  font-size: 16px;
+	}
+
+	.page-not-found-title {
+	    font-size: 190px;
+	}
+
+	.not-found-subtitle {
+	    font-size: 34px;
+	    line-height: 42px;
+	}
+
+	.back-btn{
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	.calendar-add-task .modal-body .form-group .error-msg, .calendar-edit-task .modal-body .form-group .error-msg{
+		top: 72px;
+	}
+
+	.comet-page .back-btn{
+		font-size: 16px;
+		margin: 0 0px 20px 10px;
+	}
+
+	.comet-page .back-btn .back-arrow-img {
+	    margin-right: 8px !important;
+	}
+
+	.subscription-banner-image .back-btn{
+		left: 40px;
+		top: 120px;
+	}
+
+	.table-wrapper thead tr th{
+		width: 180px;
+	}
+}
+
+@media (max-width: 1199px){
+
+	.common-btn-pattern, 
+	.modal-form-wrapper .modal-header .form-sub-text, 
+	.link-redirection, 
+	.form-footer span, 
+	.form-link-redirection,
+	.check-label,
+	.sign-in-redirection,
+	.user-name,
+	.user-email,
+	.account-type,
+	.user-profile-form .form-group label,
+	.user-profile-details li label,
+	.user-profile-details li .value,
+	.logout-link,
+	.user-profile-details li .dropdown-menu-link{
+	  font-size: 14px;
+	  line-height: 22px;
+	}
+
+	.user-profile-form .form-group .form-control::-webkit-input-placeholder {
+	 	font-size: 14px;
+	  line-height: 22px;
+	}
+
+	.user-profile-form .form-group .form-control:-ms-input-placeholder {
+	  font-size: 14px;
+	  line-height: 22px;
+	}
+
+	.user-profile-form .form-group .form-control::placeholder {
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+	.footer-section p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.social-links li .social-image a {
+	  width: 32px;
+	  height: 32px;
+	}
+
+	.social-links li .social-image {
+	  width: 16px;
+	  height: 16px;
+	}
+
+	.profile-edit-section{
+		padding: 25px 30px;
+	}
+
+	.profile-edit-section,
+	.treeview-section,
+	.full-calendar-wrapper,
+	.upcoming-star-wrapper,
+	.group-chat-section,
+	.page-not-found-wrapper{
+		height: calc(100vh - 118px);
+	}
+
+	.user-profile-section {
+	  width: 250px;
+	}
+
+	.profile-image-section .edit-icon-wrapper{
+		width: 32px;
+		height: 32px;
+	}
+
+	.user-name-details{
+		margin-top: 30px;
+	}
+
+	.user-profile-form .form-group {
+	  margin-bottom: 30px;
+	}
+
+	.user-profile-input-details{
+		margin-left: 30px;
+		padding-left: 25px;
+		width: calc(100% - 280px);
+	}
+
+	.user-profile-form .form-group:first-child,
+	.user-profile-form .form-group:last-child{
+		margin: 0px;
+	}
+
+	.user-profile-form .form-group.user-profile-address{
+		margin: 0 0 30px 0;
+	}
+
+	.form-group.user-profile-address .form-control {
+	    min-height: 100px;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+	    width: 250px !important;
+	    height: 250px !important;
+	}
+
+	.notification .notification-number{
+		right: 4px;
+		top: -4px;
+	}
+
+	/* mobile spiral */
+	.mobile-spiral {
+		width: 400px;
+		height: 400px;
+		margin-top: 0px;
+	}
+
+	.center-circle-wrapper{
+		position: absolute;
+	    left: 50%;
+	    top: 50%;
+	    transform: translate(-50%,-50%);
+	    border-radius: 50%;
+		width: 60px;
+	    height: 60px;
+	    margin: -5px 0px 0 -5px;
+	    z-index: 1;
+	}
+
+	.mobile-center-circle-wrapper span{
+		width: 80% !important;
+    	height: 80% !important;
+	}
+
+	.circle-image{
+		width: 35px !important;
+    	height: 35px !important;
+	}
+
+	.mobile-circle{
+		width: 35px !important;
+    	height: 35px !important;
+	}
+
+	.mobile-second-spiral,
+	.second-spiral{
+		width: 330px;
+		height: 330px;
+	}
+
+	.mobile-third-spiral,
+	.third-spiral{
+		width: 260px;
+		height: 260px;
+	}
+
+	.fourth-spiral{
+		width: 220px;
+		height: 220px;
+	}
+
+	.mobile-fourth-spiral{
+		width: 175px;
+		height: 175px;
+	}
+	
+	#mobile-circle-img-1{
+		right: -5px;
+	}
+
+	#mobile-circle-img-2 {
+		right: 30px;
+		bottom: 105px;
+		top: auto;
+	}
+
+	#mobile-circle-img-3 {
+		right: 105px;
+		bottom: 30px;
+	}
+
+	#mobile-circle-img-4 {
+	    bottom: 5px;
+	}
+
+	#mobile-circle-img-5 {
+	    left: 105px;
+	    bottom: 30px;
+	}
+
+	#mobile-circle-img-6 {
+		left: 30px;
+		bottom: 105px;
+	}
+
+	#mobile-circle-img-7 {
+	    left: -5px;
+	}
+
+	#mobile-circle-img-8 {
+		left: 25px;
+		top: 100px;
+	}
+
+	#mobile-circle-img-9 {
+		left: 100px;
+		top: 25px;
+	}
+
+	#mobile-circle-img-10 {
+		top: 5px;
+	}
+
+	#mobile-circle-img-11 {
+		right: 110px;
+		top: 40px;
+	}
+
+	#mobile-circle-img-12 {
+	    right: 50px;
+	    top: 120px;		
+	}
+
+	#mobile-circle-img-13{
+		right: -25px;
+	}
+
+	#mobile-circle-img-14 {
+		right: 5px;
+		bottom: 65px;
+	}
+
+	#mobile-circle-img-15 {
+		right: 65px;
+		bottom: 5px;
+	}
+
+	#mobile-circle-img-16{
+		bottom: -15px;
+	}
+
+	#mobile-circle-img-17 {
+		left: 65px;
+		bottom: 5px;
+	}
+
+	#mobile-circle-img-18 {
+	    left: 5px;
+	    bottom: 65px;
+	}
+
+	#mobile-circle-img-19{
+		left: -25px;
+	}
+
+	#mobile-circle-img-20 {
+	    left: 0px;
+	    top: 60px;
+	}
+
+	#mobile-circle-img-21 {
+		left: 65px;
+		top: 5px;
+	}
+
+	#mobile-circle-img-22{
+		top: -15px;
+	}
+
+	#mobile-circle-img-23 {
+	    right: 70px;
+	    top: 15px;
+	}
+
+	#mobile-circle-img-24 {
+		right: 25px;
+		top: 75px;
+	}
+
+	#mobile-circle-img-27 {
+	    right: 50px;
+	    bottom: 5px;
+	}
+
+	#mobile-circle-img-29 {
+	    left: 50px;
+	    bottom: 5px;
+	}
+
+	#mobile-circle-img-30 {
+	    bottom: 50px;
+	    left: 5px;
+	}
+
+	#mobile-circle-img-32 {
+	    top: 50px;
+	}
+
+	#mobile-circle-img-35 {
+	    right: 60px;
+	    top: 20px;
+	}
+
+	#mobile-circle-img-36 {
+	    right: 25px;
+	    top: 60px;
+	}
+
+	#mobile-circle-img-38 {
+	    right: -5px;
+	    bottom: 25px;
+	}
+
+	#mobile-circle-img-39 {
+	    right: 30px;
+	}
+
+	#mobile-circle-img-40{
+		bottom: -10px;
+	}
+
+	#mobile-circle-img-41 {
+	    left: 27px;
+	    bottom: -2px;
+	}
+
+	#mobile-circle-img-42 {
+	    bottom: 25px;
+	}
+
+	#mobile-circle-img-43{
+		left: -20px;
+	}
+
+	#mobile-circle-img-44 {
+	    left: -10px;
+	    top: 25px;
+	}
+
+	#mobile-circle-img-46{
+		top: -10px;
+	}
+
+	#mobile-circle-img-47 {
+	    right: 35px;
+	    top: 10px;
+	}
+
+	#mobile-circle-img-48{
+		right: 20px;
+	}
+	/* */
+
+	.inner-page-header .nav-header {
+	    padding: 10px 30px;
+	}
+
+	.nav-header .navbar-brand {
+	    width: 160px;
+	}
+
+	.user-detail-dropdown .btn {
+	    width: 40px;
+	    height: 40px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show {
+		min-width: 185px;
+		padding: 15px 10px 10px;
+		margin-right: -10px !important;
+		margin-top: 13px !important;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before {
+	    right: 22px;
+	}
+
+	.user-details {
+	    margin-bottom: 10px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before, .notification .dropdown-menu.show:before{
+		top: -7px;
+		border-left: 7px solid transparent;
+		border-right: 7px solid transparent;
+		border-bottom: 7px solid #fff;
+	}
+
+	.user-profile-details li {
+		margin-bottom: 6px;
+		padding-bottom: 6px;
+	}
+
+	.logout-link,
+	.user-profile-details li .dropdown-menu-link{
+		font-size: 13px;
+		line-height: 20px;
+	}
+
+	.notification{
+		margin-right: 8px;
+		margin-top: 12px;
+	}
+
+	.notification .dropdown-toggle>span>span>img {
+	    max-height: 32px;
+	}
+
+	.notification .dropdown-menu.show {
+		margin-top: 11px !important;
+	}
+
+	.modal-form-wrapper .modal-content,
+	.signup-form.modal-form-wrapper .modal-content{
+		padding: 30px 20px;
+	}
+
+	.common-btn {
+	    padding: 8px 12px;
+	    font-size: 15px;
+	    line-height: 22px;
+	    min-width: 130px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title {
+	    font-size: 32px;
+	    line-height: 38px;
+	}
+
+	.form-wrapper .form-group .form-control, 
+	.planet-form-wrapper .form-group .form-control, 
+	.moon-form-wrapper .form-group .form-control, 
+	.satellite-form-wrapper .form-group .form-control {
+		padding: 6px 12px;
+		height: 44px;
+	}
+
+	.sign-up-opt li a {
+	    width: 34px;
+	    height: 34px;
+	}
+
+	.treeview-structure .project-name-details {
+	    top: -50px;
+	}
+
+	.treeview-filter {
+	    padding: 10px 16px;
+	}
+
+	.treeview-title {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin: 0 10px 0 0;
+	}
+
+	.tree-search-wrapper{
+		margin-right: 10px;
+	}
+
+	.tree-search-wrapper .form-control {
+	    min-width: 270px;
+	    min-height: 42px;
+	}
+
+	.treeview-filter-dropdown {
+	    min-width: 95px;
+	    height: 42px;
+	    background-position: right 10px top 15px;
+    	background-size: 12px;
+	}
+
+	.treeview-list{
+		padding: 16px;
+	}
+
+	.subscription-plan-grid {
+	    width: 30%;
+	    margin: 0 15px;
+	}
+
+	.background-white {
+	    padding: 18px;
+	    min-height: 165px;
+	}
+
+	.subscription-content-side {
+	    margin-bottom: 25px;
+	}
+
+	.subscription-package-wrapper h4 {
+		font-size: 20px;
+	}
+
+	.subscription-package-wrapper h5 {
+	    font-size: 22px;
+	    line-height: 26px;
+	}
+
+	.subscription-package-wrapper .subscription-btn,
+	.redirect-btn{
+	    padding: 6px 18px;
+	    font-size: 15px;
+	}
+
+	.web-logo-wrapper{
+		width: 200px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - -25px);
+	}
+
+	.card-details-form-wrapper{
+		width: 550px;
+		padding: 20px;
+	}
+
+	.card-details-wrapper {
+	    height: calc(100vh - 130px);
+	}
+
+	.full-calendar-section .fc .fc-toolbar-chunk:first-child .fc-button-group .fc-button.fc-button-primary{
+		padding: 5px 12px;
+	}
+
+	.user-profile-details li .value .edit-icon{
+		display: flex;
+		width: 13px;
+	}
+
+	.header-contact-info {
+	    width: 20px;
+	    margin-right: 10px;
+	}
+
+	.project-name-details .project-page-name {
+	    font-size: 28px;
+	    line-height: 36px;
+	}
+
+	.project-addition a{
+		padding: 0 10px;
+	}
+
+	.project-addition a .add-icon {
+		width: 22px;
+		height: 22px;
+		font-size: 18px;
+	}
+
+	.add-project-btn {
+	    padding: 5px 20px 5px 5px;
+	}
+
+	.add-project-btn .star-icon-wrapper, 
+	.add-project-btn:hover .hover-star-icon-wrapper {
+	    width: 28px !important;
+	    height: 28px !important;
+	}
+
+	.add-project-btn .star-icon-wrapper, 
+	.add-project-btn:hover .hover-star-icon-wrapper{
+		margin-right: 8px !important;
+	}
+
+	.page-inner-content .banner-image {
+	    height: calc(100vh - 33px);
+	}
+
+	.management-button-wrapper {
+	    bottom: 5px;
+	}
+
+	.banner-buttons {
+	    padding: 3px 8px;
+	    min-width: 100px;
+	    font-size: 13px;
+	    margin: 0 3px;
+	}
+
+	.common-popup-details.calendar-add-task .modal-dialog, 
+	.common-popup-details.calendar-edit-task .modal-dialog, 
+	.common-popup-details.show-task-details-popup .modal-dialog {
+	    max-width: 900px;
+	}
+
+	.calendar-add-task .modal-body, 
+	.calendar-edit-task .modal-body, 
+	.show-task-details-popup .modal-body {
+	    padding: 25px;
+	}
+
+	.form-value-fields{
+		margin-bottom: 20px;
+	}
+
+	.new-star-popup-details .modal-body .form-group label {
+	    font-size: 15px;
+	    line-height: 20px;
+	}
+
+	.star-poup .common-popup-wrapper, 
+	.comet-poup .addcomet-popup-wrapper, 
+	.planet-poup .addplanet-popup-wrapper, 
+	.moon-poup .addmoon-popup-wrapper, 
+	.satellite-poup .addsatellite-popup-wrapper {
+		left: 160px;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper {
+	    padding: 15px 10px;
+	    top: 70px;
+	    max-height: 475px;
+	}
+
+	.form-wrapper .form-group label span, 
+	.planet-form-wrapper .form-group label span, 
+	.moon-form-wrapper .form-group label span, 
+	.satellite-form-wrapper .form-group label span {
+		width: 14px !important;
+		margin-right: 5px !important;
+	}
+
+	.upload-document-wrapper-star, 
+	.upload-document-wrapper-commet, 
+	.upload-document-wrapper-planet, 
+	.upload-document-wrapper-moon, 
+	.upload-document-wrapper-satellite {
+		padding: 6px 8px;
+	}
+
+	.file-upload-input-star.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-star label, 
+	.file-upload-input-comet.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-commet label, 
+	.file-upload-input-planet.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-planet label, 
+	.file-upload-input-moon.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-moon label, 
+	.file-upload-input-satellite.form-full-width.form-field-wrapper .form-group .upload-document-wrapper-satellite label{
+		font-size: 13px;
+	}
+
+	.form-field-wrapper.file-upload-input-star, 
+	.form-field-wrapper.file-upload-input-comet, 
+	.form-field-wrapper.file-upload-input-planet, 
+	.form-field-wrapper.file-upload-input-moon, 
+	.form-field-wrapper.file-upload-input-satellite {
+		margin-bottom: 10px;
+	}
+
+	.add-btn-wrapper {
+	    margin-top: 10px;
+	    padding-top: 10px;
+	}
+
+	.submit-btn-wrapper {
+	    padding: 7px 10px;
+	    font-size: 14px;
+	    line-height: 20px;
+	    min-width: 90px;
+	}
+
+	.mark-done-btn {
+	    margin-top: -35px;
+	}
+
+	.common-popup-wrapper::-webkit-scrollbar,
+	.addcomet-popup-wrapper::-webkit-scrollbar,
+	.addplanet-popup-wrapper::-webkit-scrollbar,
+	.addmoon-popup-wrapper::-webkit-scrollbar,
+	.addsatellite-popup-wrapper::-webkit-scrollbar{
+		width: 4px;
+	}
+
+	.show_images .file_img{
+		width: 65px;
+		height: 65px;
+	}
+
+	.show_images .file_img img, 
+	.show_images .file_img video{
+		height: 80%;
+    	width: 80%;
+	}
+
+	.form-field-wrapper{
+		flex-wrap: wrap;
+	}
+
+	.form-field-wrapper .form-group{
+		width: 49%;
+	}
+
+	.form-field-wrapper .form-group:nth-child(-n+2){
+		margin-bottom: 20px;
+	}
+
+	.calendar-add-task .modal-body .form-group, .calendar-edit-task .modal-body .form-group{
+		margin-bottom: 25px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 30%;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+		right: 34%;
+	}
+
+	.banner-spiral{
+		width: auto;
+		margin: 60px 0 0 0;
+	}
+
+	.banner-spiral .desktop-spiral{
+		display: none !important;
+	}
+
+	.mobile-spiral{
+		display: flex !important;
+	}
+
+/*	.first-spiral:before, .first-spiral:after, .second-spiral:before, .second-spiral:after, .third-spiral:before, .third-spiral:after{
+		content: '';
+	    position: absolute;
+	    left: 50%;
+	    top: 50%;
+	    background-color: #fff;
+	}
+*/
+	.first-spiral:before, .second-spiral:before, .third-spiral:before{
+	    width: 100%;
+	    height: 1px;
+	}
+
+	.first-spiral:after, .second-spiral:after, .third-spiral:after{
+	    height: 100%;
+	    width: 1px;
+	}
+
+	.first-spiral:before, .first-spiral:after {
+	    transform: translate(-50%,-50%);
+	}
+
+	.first-spiral:before, .first-spiral:after {
+	    transform: translate(-50%,-50%);
+	}
+
+	.second-spiral:before {
+	    transform: translate(-50%,-50%) rotate(30deg);
+	    width: calc(100% + 50%);
+	}
+
+	.second-spiral:after {
+	    transform: translate(-50%,-50%) rotate(30deg);
+	    height: calc(100% + 50%);
+	}
+
+	.third-spiral:before {
+	    transform: translate(-50%,-50%) rotate(60deg);
+	    width: calc(100% + 60%);
+	}
+
+	.third-spiral:after {
+	    transform: translate(-50%,-50%) rotate(60deg);
+	    height: calc(100% + 60%);
+	}
+
+	.first-spiral,
+	.second-spiral,
+	.third-spiral,
+	.fourth-spiral,
+	.circle-center-name{
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%,-50%) rotate(0);
+	}
+
+	.project-name{
+		font-size: 12px !important;
+		transform: rotate(0);
+		-webkit-line-clamp: 1;
+	}
+
+	.circle-center-name{
+		font-size: 13px;
+		line-height: 18px;
+		-webkit-line-clamp: 2;
+		width: 70%;
+	}
+
+	#circle-img-2{
+		top: 5px;
+		left: 50%;
+    	transform: translateX(-50%);
+	}
+
+	#circle-img-7{
+		right: 95px;
+		bottom: 25px;
+	}
+
+	#circle-img-11{
+		left: 55px;
+		top: -10px;
+	}
+
+	#circle-img-16{
+	    right: 20px;
+    	bottom: 75px;
+	}
+
+	#circle-img-18{
+	    left: 75px;
+	    bottom: 25px;
+	}
+
+	#circle-img-19{
+		left: 60px;
+		bottom: 15px;
+	}
+
+	#circle-img-24{
+		right: 65px;
+		top: 30px;
+	}
+
+	#circle-img-25{
+		right: 15px;
+    	bottom: 55px;
+	}
+
+	#circle-img-27{
+		right: 35px;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+
+	#circle-img-29{
+		left: 15px;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
+	.satellite-page #circle-img-2{
+		top: 0px;
+	}
+
+	.satellite-page #circle-img-4{
+		right: -5px;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+
+	.satellite-page #circle-img-9{
+	    bottom: 20px;
+	    left: 85px;
+	}
+
+	.satellite-page #circle-img-11 {
+		top: 45px;
+		left: -20px;
+	}
+
+	.satellite-page #circle-img-18 {
+		top: 25px;
+    	right: 75px;
+		left: auto;
+    }
+
+    .satellite-page #circle-img-29{
+    	left: 0;
+    }
+
+	.satellite-page .circle-image{
+		width: 50px !important;
+    	height: 50px !important;
+	}
+
+	.star-poup .add-project-btn .hover-star-icon-wrapper{
+		width: 28px !important;
+		height: 28px !important;
+		margin-right: 8px !important;
+	}
+
+	.upcoming-star{
+    	width: 75%;
+	}
+
+	.table-wrapper {
+	    height: calc(100vh - 360px);
+	}
+
+	.group-member-listing {
+	    width: 270px;
+	}
+
+	.group-member-message{
+		width: calc(100% - 295px);
+	}
+
+	.group-member-inbox {
+	    padding: 12px 18px;
+	}
+
+	.chat-list {
+	    padding: 10px 0px;
+	}
+
+	.member-image {
+	    width: 35px;
+	    height: 35px;
+	    margin-right: 8px;
+	}
+
+	.member-image:before {
+	    width: 10px;
+	    height: 10px;
+	}
+
+	.user-image-wrapper {
+	    width: 30px;
+	    height: 30px;
+	}
+
+	.message {
+	    font-size: 12px;
+	    line-height: 18px;
+	    padding: 5px 10px;
+	}
+
+	.time-date {
+	    font-size: 9px;
+	    line-height: 15px;
+	}
+
+
+	.notification-title {
+	    font-size: 20px;
+	    line-height: 26px;
+	    padding: 10px 5px;
+	}
+
+	.form-footer {
+	    margin-top: 30px;
+	    padding-top: 20px;
+	}
+
+	.checkmark {
+	    height: 20px;
+	    width: 22px;
+	}
+
+	.check-label .checkmark:after {
+	    top: 3px;
+	    left: 8px;
+	}
+
+	.submit-form-wrapper .submit-btn-wrapper{
+		min-width: 110px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__month-dropdown-container{
+		margin-right: 5px;
+	}
+
+	.user-profile-form-wrapper .react-datepicker__header__dropdown--select select{
+		padding: 4px 14px 4px 2px;
+    	font-size: 12px;
+	}
+
+	.inner-page-header .notification .dropdown-toggle{
+		width: auto;
+	}
+
+	.no-record-found{
+	  font-size: 16px;
+	  padding: 10px 5px !important;
+	}
+
+	.group-chat-section .back-btn{
+		left: 40px;
+	}
+
+	.subscription-banner-image .back-btn{
+		top: 100px;
+	}
+
+	.treeview-wrapper .back-btn {
+	    left: 40px;
+	}
+}
+
+@media (max-width: 991px){
+
+	.main-page-header {
+	    padding: 10px 15px 0;
+	}
+
+	.nav-header .navbar-brand {
+	    width: 140px;
+	}
+
+	.time-sorting .nav-tabs .nav-link {
+	    padding: 3px;
+	    min-width: 60px;
+	    font-size: 11px;
+	}
+
+	.header-contact-info {
+	    width: 18px;
+    	margin-right: 5px;
+	}
+
+	.inner-page-header .nav-header {
+	    padding: 10px 20px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show{
+		margin-top: 10px !important;
+	}
+
+	.notification .dropdown-menu.show{
+		margin-top: 8px !important;
+	}
+
+	.notification{
+		margin-right: 5px;
+	}
+
+	.notification .dropdown-toggle{
+		width: 40px;
+	}
+
+	.notification .dropdown-menu.show .notification-listing-dropdown {
+	    width: 320px;
+	}
+
+	.notification .notification-number{
+		width: 14px;
+		line-height: 14px;
+		height: 14px;
+		font-size: 8px;
+		right: 6px;
+		top: -2px;
+	}
+
+	.user-detail-dropdown .btn {
+	    width: 35px;
+	    height: 35px;
+	}
+
+	.time-sorting .nav-tabs{
+		padding: 2px;
+	}
+
+	.project-name-details .project-page-name{
+		font-size: 26px;
+		line-height: 34px;
+	}
+
+	.profile-edit-section{
+		padding: 20px 25px;
+	}
+
+	.profile-edit-section, 
+	.treeview-section, 
+	.full-calendar-wrapper, 
+	.upcoming-star-wrapper, 
+	.group-chat-section,
+	.page-not-found-wrapper{
+		height: calc(100vh - 108px);
+	}
+
+	.user-profile-section {
+	    width: 220px;
+	}
+
+	.user-profile-input-details {
+	    margin-left: 25px;
+	    padding-left: 20px;
+	    width: calc(100% - 245px);
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+		width: 220px !important;
+		height: 220px !important;
+	}
+
+	.user-name-details {
+		margin-top: 25px;
+	}
+
+	.profile-image-section{
+		padding-top: 20px;
+	}
+
+	.user-profile-form-wrapper{
+		flex-direction: column;
+	}
+
+	.user-profile-form .form-group{
+		width: 100%;
+		margin: 0 0 30px 0;
+	}
+
+	.user-profile-form .form-group:first-child, .user-profile-form .form-group:last-child{
+		margin: 0 0 30px 0;
+	}
+
+	.mobile-center-circle-wrapper{
+		width: 55px;
+		height: 55px;
+	}
+
+	.main-page-content {
+	    margin-top: -64px;
+	}
+
+	.footer-section p, .page-footer-content p {
+	    font-size: 11px;
+	}
+
+	.social-links li:not(:last-child) {
+	    margin-right: 8px;
+	}
+
+	.social-links li a {
+	    width: 27px;
+	    height: 27px;
+	}
+
+	.mobile-circle {
+	    width: 30px;
+	    height: 30px;
+	}
+
+	.mobile-second-spiral {
+	    width: 320px;
+	    height: 320px;
+	}
+
+	.mobile-third-spiral {
+	    width: 250px;
+	    height: 250px;
+	}
+
+	.mobile-fourth-spiral {
+	    width: 165px;
+	    height: 165px;
+	}
+
+	#mobile-circle-img-1 {
+	    right: 0;
+	}
+
+	#mobile-circle-img-3 {
+	    right: 110px;
+	    bottom: 35px;
+	}
+
+	#mobile-circle-img-4 {
+	    bottom: 10px;
+	}
+
+	#mobile-circle-img-5 {
+	    left: 110px;
+	    bottom: 35px;
+	}
+
+	#mobile-circle-img-7 {
+	    left: 0px;
+	}
+
+	#mobile-circle-img-8 {
+		top: 105px;
+	}
+
+	#mobile-circle-img-9 {
+		left: 105px;
+		top: 30px;
+	}
+
+	#mobile-circle-img-10 {
+	    top: 10px;
+	}
+
+	#mobile-circle-img-11 {
+	    right: 115px;
+	    top: 45px;
+	}
+
+	.user-profile-form .form-group .form-control{
+		padding: 3px 10px;
+	}
+
+	.treeview-section{
+		padding: 20px 25px 0 25px;
+	}
+
+	.treeview-universe-img{
+		display: none;
+	}
+
+	.treeview-listing{
+		width: 100%;
+	}
+
+	.tree-search-wrapper .form-control {
+	    min-width: 320px;
+	}
+
+	.treeview-filter-dropdown{
+		min-width: 140px;
+	}
+
+	.subscription-banner-image {
+	    padding: 15px 20px 0px;
+	  	height: calc(100vh - 43px);
+	}
+
+	.web-logo-wrapper {
+	    width: 180px;
+	}
+
+	.subscription-banner-image .project-name-details {
+	    top: 25px;
+	}
+
+	.subscription-plan-grid{
+		margin: 0 10px;
+	}
+
+	.background-white {
+	    padding: 15px;
+	    min-height: 165px;
+	}
+
+	.background-white:before{
+		width: 6px;
+	}
+
+	.subscription-package-wrapper h4 {
+	    font-size: 18px;
+	}
+
+	.subscription-package-wrapper h5 {
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - 80px);
+	}
+
+	.card-details-wrapper {
+	    height: calc(100vh - 115px);
+	}
+
+	.card-details-form-wrapper {
+	    width: 500px;
+	    min-height: 280px;
+	}
+
+	.page-breadcrumb {
+	    left: 20px;
+	}
+
+	.page-inner-content .banner-image .project-details {
+	    top: 70px;
+	}
+
+	.project-left-details {
+	    left: 15px;
+	    top: 165px;
+	}
+
+	.page-inner-content .banner-image {
+	    height: calc(100vh - 34px);
+	}
+
+	.banner-buttons {
+	    padding: 2px 6px;
+	    min-width: 90px;
+	    font-size: 12px;
+	}
+
+	.common-popup-details.calendar-add-task .modal-dialog, 
+	.common-popup-details.calendar-edit-task .modal-dialog, 
+	.common-popup-details.show-task-details-popup .modal-dialog,
+	.common-popup-details .modal-dialog{
+		max-width: 800px;
+	}
+
+	.common-popup-details .modal-header .modal-title {
+	    font-size: 18px;
+	}
+
+	.calendar-add-task .modal-body, 
+	.calendar-edit-task .modal-body, 
+	.show-task-details-popup .modal-body {
+	    padding: 20px;
+	}
+
+	.form-value-fields label, 
+	.form-value-fields .form-value, 
+	.calendar-edit-task .modal-body .half-field-wrapper label, 
+	.calendar-edit-task .modal-body .form-value {
+		font-size: 13px;
+		line-height: 18px;
+	}
+
+	.form-label-wrapper>span{
+		width: 20px !important;
+	}
+
+	.calendar-edit-task .modal-body .form-value, 
+	.show-task-details-popup .modal-body .form-value {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img{
+		width: 40px;
+    	height: 40px;
+	}
+
+	.new-star-popup-details .modal-body .popup-title{
+		font-size: 22px;
+    	line-height: 28px;
+	}
+
+	.choose-plan-popup .modal-body, .new-star-popup-details .modal-body {
+	    padding: 15px 15px 25px;
+	}
+
+	.modal-body .half-field-wrapper label, .form-field-wrapper .recurring-switch-wrapper .form-label label {
+	    font-size: 14px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 100px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 115px;
+	}
+
+	.star-poup .common-popup-wrapper, 
+	.comet-poup .addcomet-popup-wrapper, 
+	.planet-poup .addplanet-popup-wrapper, 
+	.moon-poup .addmoon-popup-wrapper, 
+	.satellite-poup .addsatellite-popup-wrapper {
+		left: 140px;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper{
+		width: 80%;
+	}
+
+	.common-popup-wrapper .form-wrapper .form-group label, 
+	.addcomet-popup-wrapper .form-wrapper .form-group label, 
+	.addplanet-popup-wrapper .planet-form-wrapper .form-group label, 
+	.addmoon-popup-wrapper .form-wrapper .form-group label, 
+	.addsatellite-popup-wrapper .form-wrapper .form-group label {
+		margin-bottom: 5px;
+	}
+
+	.form-field-wrapper .form-group.add-member .tags-dropdown-result {
+	    top: 88px;
+		padding: 4px 5px;
+		max-height: 60px;
+	}
+
+	.tag-item {
+	    padding: 3px 6px;
+	}
+
+	.tag-item .close {
+	    height: 14px;
+	    width: 14px;
+	}
+
+	.form-wrapper .form-group .error-msg, .checkbox-wrapper .error-msg {
+	    bottom: -15px;
+	    font-size: 12px;
+	    line-height: 15px;
+	}
+
+	.member-priority-wrapper.form-field-wrapper .form-group:nth-child(-n+2),
+	.field-textarea.form-field-wrapper .form-group:nth-child(-n+2),
+	.form-full-width.form-field-wrapper .form-group:nth-child(-n+2){
+		margin-bottom: 0px;
+	}
+
+	.choose-plan-popup .modal-body .subscription-plan-content{
+		font-size: 16px;
+    	line-height: 22px;
+	}
+
+	.choose-plan-popup .modal-body .gradient-btn{
+		padding: 10px 26px;
+	    font-size: 16px;
+	    line-height: 22px;
+	}
+
+	.upcoming-star-wrapper {
+	    padding: 30px 30px 0;
+	}
+
+	.upcoming-star {
+	    width: 100%;
+	}
+
+	.group-member-listing {
+	    width: 240px;
+	}
+
+	.group-member-message {
+		margin-left: 20px;
+	    width: calc(100% - 260px);
+	}
+
+	.group-member-inbox {
+	    padding: 12px 14px;
+	}
+
+	.member-details .member-name{
+		font-size: 13px;
+		line-height: 18px;
+	}
+
+	.member-details .chat-date {
+	    font-size: 10px;
+	    line-height: 15px;
+	}
+
+	.member-details{
+		width: calc(100% - 45px);
+	}
+
+	.group-message-chat{
+		padding-left: 5px;
+	}
+
+	.chat-input input {
+	    padding: 6px 35px 6px 6px;
+	    font-size: 13px;
+	}
+
+	.message-send-btn {
+	    width: 25px;
+	    height: 25px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title {
+	    font-size: 28px;
+	    line-height: 36px;
+	}
+
+	.signup-form .nav-tabs{
+		margin-bottom: 25px;
+	}
+
+	.signup-form .nav-item {
+	    margin: 0 15px;
+	}
+
+	.signup-form .nav-tabs .nav-link span {
+	    font-size: 16px;
+	    line-height: 22px;
+	    padding-left: 20px;
+	}
+
+	.signup-form .nav-tabs .nav-link span:before {
+		width: 16px;
+		height: 16px;
+	}
+
+	.signup-form .form-footer {
+	    margin-top: 20px;
+	    padding-top: 20px;
+	}
+
+	.sign-up-opt li a {
+	    width: 30px;
+	    height: 30px;
+	}
+
+	.reset-link-text {
+	    font-size: 16px;
+	    line-height: 24px;
+	    margin: 25px auto 0;
+	    width: 90%;
+	}
+
+	.submit-form-wrapper {
+	    margin-top: 25px;
+	}
+
+	.notification-image {
+	    width: 32px;
+	    height: 32px;
+	    margin-right: 7px;
+	}
+
+	.notification-image svg {
+	    width: 12px;
+	}
+
+	.notification-data-wrapper {
+	    width: calc(100% - 40px);
+	}
+
+	.notification-name{
+		margin-bottom: 6px;
+	}
+
+	.form-label-wrapper {
+	    max-width: 135px;
+	}
+
+	.calendar-edit-task .modal-body .form-value, .show-task-details-popup .modal-body .form-value{
+		width: calc(100% - 135px);
+	}
+
+	.dropdown-item-wrapper .nodata{
+	  font-size: 14px;
+	}
+
+	.page-not-found-title {
+	    font-size: 175px;
+	}
+
+	.not-found-subtitle {
+	    font-size: 32px;
+	    line-height: 40px;
+	}
+
+	.back-btn{
+		font-size: 13px;
+		padding: 10px;
+	}
+
+	.back-btn .back-arrow-img{
+		width: 14px !important;
+		height: 15px;
+	}
+
+	.calendar-add-task .modal-body .form-group .error-msg, .calendar-edit-task .modal-body .form-group .error-msg {
+	    font-size: 12px;
+	}
+
+	.treeview-structure .project-name-details {
+		top: -60px;
+	}
+
+	.comet-page .back-btn {
+	    font-size: 14px;
+	}
+
+	.group-chat-section .back-btn {
+	    left: 25px;
+	}
+
+	.subscription-banner-image .back-btn {
+		top: 90px;
+		left: 30px;
+	}
+
+	.treeview-wrapper .back-btn {
+	    left: 30px;
+	}
+}
+
+@media (max-width: 767px) {
+
+	.profile-edit-section{
+		position: relative;
+	}
+
+	.profile-edit-section .back-btn{	
+	    position: absolute;
+	    left: 0;
+	    top: 15px;
+	    margin: 0;
+	}
+
+	.profile-edit-section{
+		flex-direction: column;
+		overflow-y: auto;
+	}
+
+	.profile-edit-section, 
+	.treeview-section, 
+	.upcoming-star-wrapper,
+	.page-not-found-wrapper{
+		height: calc(100vh - 119px);
+	}
+
+	.user-profile-section{
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		justify-content: center;
+		width: 100%;
+		margin-bottom: 35px;
+	}
+
+	.profile-image-section{
+		padding: 0px;
+		margin-bottom: 20px;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+	    width: 200px !important;
+	    height: 200px !important;
+	}
+
+	.user-name-details{
+		margin: 0;
+		width: calc(100% - 230px);
+	}
+
+	.user-profile-input-details{
+		margin: 0 0 0 0;
+		padding: 0px 0 0 0;
+		width: 100%;
+		border-left: 0px;
+	}
+
+	.user-profile-form .form-group.form-btn-wrap{
+		margin-bottom: 0px;
+	}
+
+	.modal-form-wrapper .modal-dialog {
+	    max-width: 500px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title {
+	    font-size: 28px;
+	    line-height: 36px;
+	}
+
+	.form-wrapper .form-group label, 
+	.planet-form-wrapper .form-group label, 
+	.moon-form-wrapper .form-group label, 
+	.satellite-form-wrapper .form-group label {
+    	font-size: 14px;
+	}
+
+	.treeview-section {
+	    padding: 20px 20px 0 20px;
+	}
+
+	.tree-search-wrapper .form-control {
+	    min-width: 280px;
+	}
+
+	.treeview-filter-dropdown {
+	    min-width: 120px;
+	}
+
+	.web-logo-wrapper,
+	.nav-header .navbar-brand{
+		display: none;
+	}
+
+	.mobile-web-logo-wrapper,
+	.navbar-brand-mobile{
+		display: flex;
+	}
+
+	.web-logo .mobile-web-logo-wrapper span,
+	.navbar-brand-mobile span{
+		width: 50px !important;
+	}
+
+	.time-sorting .nav-tabs .nav-link {
+	    padding: 0px 2px;
+	    min-width: 52px;
+	    font-size: 11px;
+	}
+
+	.subscription-banner-image .project-name-details {
+	    top: 35px;
+	}
+
+	.project-name-details .project-page-name {
+	    font-size: 24px;
+	    line-height: 30px;
+	}
+
+	.subscription-plan-wrapper h3{
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.subscription-plan-wrapper p {
+	    font-size: 15px;
+	    line-height: 22px;
+	}
+
+	.background-white {
+	    padding: 12px;
+	    min-height: 150px;
+	}
+
+	.subscription-content-side {
+		margin-bottom: 0;
+		margin-right: 15px;
+	}
+
+	.signup-text-wrapper{
+		width: 100%;
+	}
+
+	.signup-text-wrapper p:not(:last-child) {
+	    margin-bottom: 8px;
+	}
+
+	.subscription-plan-grid-wrapper{
+		flex-direction: column;
+	}
+
+	.subscription-plan-grid {
+	    margin: 0 0px 0 0;
+	    width: 100%;
+	}
+
+	.background-white {
+	    padding: 10px 10px 10px 20px;
+	    min-height: auto;
+	}
+
+	.subscription-plan-grid:not(:last-child){
+		margin-bottom: 8px;
+	}
+
+	.subscription-package-wrapper{
+		flex-direction: row;
+		align-items: center;
+		justify-content: flex-start;
+		width: 100%;
+	}
+
+	.pack-details {
+	    justify-content: flex-start;
+	    align-items: center;
+	    flex-direction: row;
+	}
+
+	.subscription-package-wrapper h4 {
+		margin: 0 10px 0 0;
+	}
+
+	.signup-text-wrapper p {
+		font-size: 12px;
+		line-height: 18px;
+	}
+
+	.signup-text-wrapper p a {
+	    font-size: 14px;
+	    line-height: 22px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - 74px);
+	}
+
+	.card-details-wrapper {
+	    height: calc(100vh - 130px);
+	}
+
+	.card-details-form-wrapper {
+	    width: 450px;
+	    min-height: 265px;
+	}
+
+	.full-calendar-wrapper {
+	    height: calc(100vh - 135px);
+	}
+
+	.management-button-wrapper{
+		display: none;
+	}
+
+	.management-button-wrapper {
+	    bottom: 15px;
+	}
+
+	.management-button-wrapper.mobile-button-wrapper-left-side,
+	.management-button-wrapper.mobile-button-wrapper-right-side{
+		display: flex;
+    	transform: none;
+    	flex-direction: column;
+	}
+
+	.management-button-wrapper.mobile-button-wrapper-left-side{
+		left: 0px;
+	}
+
+	.mobile-button-wrapper-left-side .banner-buttons{
+		border-radius: 12px;
+	    border-top-left-radius: 0;
+	    border-bottom-left-radius: 0;
+	    background-image: none;
+	    background-color: #4e63ff;
+	}
+
+	.management-button-wrapper.mobile-button-wrapper-right-side{
+		right: 0px;
+		left: auto;
+	}
+
+	.mobile-button-wrapper-right-side .banner-buttons{
+		border-radius: 12px;
+	    border-top-right-radius: 0;
+	    border-bottom-right-radius: 0;
+	    background-image: none;
+	    background-color: #4e63ff;
+	}
+
+	.banner-buttons{
+		min-width: auto;
+		padding: 4px 10px;
+		white-space: nowrap;
+		margin: 5px 0;
+	}
+
+	.main-page-content {
+	    margin-top: -71px;
+	}
+
+	.page-inner-content .banner-image {
+	    height: calc(100vh - 38px);
+	}
+
+	.project-left-details {
+	    left: 0;
+	    top: 200px;
+	}
+
+	.project-addition{
+		display: none;
+	}
+
+	.project-addition.mobile-project-addition{
+		display: flex;
+		margin-bottom: 10px;
+	}
+
+	.project-addition.mobile-project-addition a{
+		padding: 0px;
+		font-family: 'Roboto Medium';
+	}
+
+	.project-addition.mobile-project-addition a .add-icon,
+	.project-addition.mobile-project-addition a .add-label{
+	    width: 46px;
+	    height: 34px;
+	    font-size: 15px;
+	    font-weight: 500;
+	    border-radius: 12px;
+	    border-top-left-radius: 0;
+	    border-bottom-left-radius: 0;
+	    margin: 0;
+	    background-image: none;
+	    background-color: #4e63ff;
+	    /*background-image: linear-gradient(to top, #4e63ff, #5253f3, #5641e6, #5a2dd9, #5e0ecb);*/
+    	color: #fff;
+    	letter-spacing: 1.2px;
+    	-webkit-background-clip: unset;
+    	-webkit-text-fill-color: inherit;
+    	padding: 0 4px;
+    	display: flex;
+    	align-items: center;
+    	justify-content: center;
+	}
+
+	.upcoming-comet-page .project-addition.mobile-project-addition a .add-icon{
+		width: auto;
+		height: auto;
+		padding: 2px 4px;
+	}
+
+	.inner-project-details .project-addition a>span{
+		margin-right: 0px !important;
+	}
+
+	.add-project-btn{
+		display: none;
+	}
+
+	.add-project-btn.mobile-add-project-btn{
+		font-size: 16px;
+		display: flex;
+		padding: 4px 11.5px;
+		border-radius: 12px;
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+		background-image: none;
+	    background-color: #4e63ff;
+		/*background-image: linear-gradient(to top, #4e63ff, #5253f3, #5641e6, #5a2dd9, #5e0ecb);*/
+		letter-spacing: 1.2px;
+		font-family: 'Roboto Medium';
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item {
+	    font-size: 16px;
+	}
+
+	.common-popup-details.calendar-add-task .modal-dialog, 
+	.common-popup-details.calendar-edit-task .modal-dialog, 
+	.common-popup-details.show-task-details-popup .modal-dialog,
+	.common-popup-details .modal-dialog{
+		max-width: 520px;
+	}
+
+	.calendar-add-task .modal-body, 
+	.calendar-edit-task .modal-body, 
+	.show-task-details-popup .modal-body {
+	    padding: 15px;
+	}
+
+	.form-value-fields{
+		width: 100%;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img {
+	    width: 35px;
+	    height: 35px;
+	}
+
+	.common-popup-details table,
+	.table-wrapper table{
+		table-layout: fixed;
+	}
+
+	.common-popup-details .modal-body table thead tr th,
+	.table-wrapper table thead tr th{
+	    padding: 8px 2px;
+	    font-size: 14px;
+	    width: 200px;
+	}
+
+	.common-popup-details .modal-body table thead tr th:first-child, 
+	.common-popup-details .modal-body table tbody tr td:first-child,
+	.table-wrapper thead tr th:first-child, 
+	.table-wrapper tbody tr td:first-child{
+	    padding-left: 10px;
+	}
+
+	.common-popup-details .modal-body table thead tr th:last-child, 
+	.common-popup-details .modal-body table tbody tr td:last-child,
+	.table-wrapper thead tr th:last-child, 
+	.table-wrapper tbody tr td:last-child{
+	    padding-right: 10px;
+	}
+
+	.common-popup-details .modal-body table tbody tr td .popup-redirect-links:before, 
+	.table-wrapper tbody tr td.action-btn a:before{
+		font-size: 10px;
+    	line-height: 18px;
+    	width: 45px;
+    	top: -32px;
+    	margin: 0 0 0 -2px;
+	}
+
+	.common-popup-details .modal-footer .btn {
+	    font-size: 13px;
+	    padding: 6px 17px;
+	}
+
+	.new-star-popup-details .modal-footer .btn {
+	    margin: 0 5px;
+	}
+
+	.calendar-add-task .modal-body .form-label>span,
+	.calendar-edit-task .modal-body .form-label>span{
+		width: 20px !important;
+	}
+
+	.calendar-add-task .modal-body .date-input-wrapper .placeholder-icon-wrap {
+	    top: 36px;
+	}
+
+	.recurring-switch-wrapper .recurring-switch .switch[type="checkbox"]::after {
+	    width: 18px;
+	    height: 18px;
+	}
+
+	.recurring-switch-wrapper .recurring-switch .switch {
+	    height: 14px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 90px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 75px;
+	}
+
+	.new-star-popup-details .modal-body .form-group label {
+	    font-size: 14px;  
+	    margin-bottom: 5px;  
+	}
+
+	.new-star-popup-details .modal-body .form-group input{
+		height: 40px;
+	    padding: 6px;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper{
+		top: 50%;
+		transform: translateY(-50%);
+		left: -100%;
+	}
+
+	.star-poup .common-popup-wrapper, 
+	.comet-poup .addcomet-popup-wrapper, 
+	.planet-poup .addplanet-popup-wrapper, 
+	.moon-poup .addmoon-popup-wrapper, 
+	.satellite-poup .addsatellite-popup-wrapper{
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%,-50%);
+	}
+
+	.comet-poup:before, 
+	.star-poup:before, 
+	.planet-poup:before, 
+	.moon-poup:before, 
+	.satellite-poup:before{
+		content: '';
+		position: fixed;
+		left: 0px;
+		top: 0px;
+		width: 100%;
+		height: 100%;
+		background-color: rgb(0 0 0/70%);
+		z-index: 4;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper{
+		width: 95%;
+	}
+
+	.comet-poup .project-left-details,
+	.star-poup .project-left-details,
+	.planet-poup .project-left-details,
+	.moon-poup .project-left-details,
+	.satellite-poup .project-left-details{
+		z-index: 4;
+	}
+
+	.show_images .file_img {
+		width: 55px;
+		height: 55px;
+	}
+
+	.show_images .file_img img, .show_images .file_img video {
+	    height: 75%;
+	    width: 75%;
+	}
+
+	.form-wrapper .form-group .form-control, 
+	.planet-form-wrapper .form-group .form-control, 
+	.moon-form-wrapper .form-group .form-control, 
+	.satellite-form-wrapper .form-group .form-control{
+		padding: 5px 10px;
+		height: 40px;
+	}
+
+	.form-wrapper .textarea-field-wrapper .form-control {
+	    min-height: 50px;
+	}
+
+	.form-field-wrapper .input-field-wrapper .placeholder-icon-wrap span {
+	    width: 16px !important;
+	    height: 16px !important;
+	}
+
+	.form-wrapper .form-field-wrapper .input-field-wrapper .form-control, 
+	.form-field-wrapper .form-group.add-member textarea{
+		padding: 5px 28px 5px 5px;
+	}
+
+	.common-add-form .btn-close, 
+	.add-comet-form .btn-close, 
+	.add-planet-form .btn-close, 
+	.add-moon-form .btn-close, 
+	.add-satellite-form .btn-close {
+	    top: -10px;
+	    right: -3px;
+	    font-size: 12px;
+	}
+
+	.upcoming-star-wrapper{
+		position: relative;
+		padding: 100px 20px 0;
+	}
+
+	.upcoming-star-wrapper .add-new-star{
+		margin: 0px;
+	}
+
+	.upcoming-star-wrapper .add-project-btn.mobile-add-project-btn{
+		position: absolute;
+		left: 0px;
+		top: 20px;
+	}
+
+	.upcoming-star .upcoming-star-header {
+	    padding: 12px 15px;
+	}
+
+	.upcoming-star-header .upcoming-star-title {
+	    font-size: 18px;
+	}
+
+	.table-wrapper thead tr th {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.table-wrapper {
+	    height: calc(100vh - 380px);
+	}
+
+	.plan-details-wrapper.upcoming-star-wrapper .table-wrapper {
+	    min-height: calc(100vh - 450px);
+	}
+
+	.upcoming-star .pagination {
+	    padding: 10px 0;
+	}
+
+	.upcoming-star .pagination span {
+	    width: 25px;
+	    height: 25px;
+	    font-size: 12px;
+	    line-height: 20px;
+	}
+
+	.upcoming-comet-page .project-addition.mobile-project-addition{
+		position: absolute;
+	    top: 20px;
+	    left: 0;
+	}
+
+	.group-chat-section{
+		height: 100%;
+	}
+
+	.group-inbox{
+		flex-direction: column;
+		align-items: center;
+		height: auto;
+	}
+
+	.group-member-listing,
+	.group-member-message{
+		width: 100%;
+	}
+
+	.group-member-message{
+		margin: 25px 0 0 0;
+	}
+
+	.group-member-listing{
+		max-height: 250px;
+		overflow-y: auto;
+	}
+
+	.chat-list:last-child{
+		border-bottom: 0px;
+	}
+
+	.group-message-chat{
+		height: calc(100vh - 350px);
+	}
+
+	.modal-form-wrapper .modal-content, .signup-form.modal-form-wrapper .modal-content {
+	    padding: 25px 15px;
+	}
+
+	.form-footer {
+	    margin-top: 20px;
+	    padding-top: 15px;
+	}
+
+	.user-view-profile .user-profile-form .form-group label {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.user-view-profile .user-profile-form .form-group label>span{
+		width: 20px !important;
+	}
+
+	.profile-input-value {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.page-not-found-title {
+	    font-size: 160px;
+	}
+
+	.notfound-404 p{
+		width: 80%;
+	}
+
+	.back-btn{
+		margin: -30px 0 30px -20px;
+		font-size: 15px;
+		font-family: 'Roboto Medium';
+		letter-spacing: 1.2px;
+		border-radius: 0px 10px 10px 0px;
+	}
+
+	.calendar-add-task .modal-body .form-group .error-msg, .calendar-edit-task .modal-body .form-group .error-msg {
+	    top: 68px;
+	}
+
+	.no-user{
+		min-height: 120px;
+	}
+
+	.comet-page .back-btn{
+		margin: 0 0 20px 0;
+		background-color: #4d69fa;
+	}
+
+	.group-chat-section .back-btn {
+	    left: 0;
+	    position: relative;
+	    top: 0;
+	}
+
+	.subscription-banner-image .back-btn{
+		left: 0px;
+		padding: 8px;
+		top: 75px;
+	}
+
+	.subscription-banner-image .back-btn .back-arrow-img {
+	    width: 12px !important;
+	    height: 13px;
+	    margin-right: 6px !important;
+	}
+
+	.treeview-wrapper .back-btn {
+	    left: 0px;
+	}
+}
+
+@media (max-width: 600px) {
+	.columns {
+	  width: 100%;
+	}
+}
+
+@media (max-width: 575px) {
+	
+	.profile-edit-section{
+		padding: 20px;
+		height: calc(100vh - 150px);
+	}
+
+	.user-profile-section{
+		margin-bottom: 25px;
+	}
+
+	.profile-image-section{
+		margin-bottom: 15px;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+	    width: 170px !important;
+	    height: 170px !important;
+	}
+
+	.profile-image-section .edit-icon-wrapper {
+	    width: 28px;
+	    height: 28px;
+	}
+
+	.page-footer-content{
+		flex-direction: column;
+	}
+
+	.social-links{
+		margin-top: 5px;
+	}
+
+	.user-profile-form .form-group,
+	.user-profile-form .form-group:first-child, 
+	.user-profile-form .form-group:last-child,
+	.user-profile-form .form-group.user-profile-address{
+		margin: 0 0 25px 0;
+	}
+
+	.user-profile-form .form-group.form-btn-wrap{
+		margin-bottom: 0px;
+	}
+
+	.user-profile-form .form-group .form-control{
+		height: 38px;
+		font-size: 15px;
+		line-height: 22px;
+	}
+
+	.modal-form-wrapper .modal-dialog {
+	    max-width: 100%;
+	}
+
+	.tree-search-wrapper .form-control {
+	    min-width: 230px;
+	    font-size: 15px;
+	    line-height: 22px;
+	}
+
+	.treeview-filter-dropdown {
+	    min-width: 100px;
+	}
+
+	.treeview-listing .treeview-name {
+	    padding: 6px 10px 6px 30px;
+	    font-size: 14px;
+	    line-height: 24px;
+	    background-size: 17px;
+	}
+
+	.treeview-button {
+	    top: 9px;
+	    background-size: 15px;
+	    width: 15px;
+	    height: 15px;
+	}
+
+	.treeview-section{
+		height: calc(100vh - 150px);
+	}
+
+	.subscription-banner-image {
+	    padding: 10px 15px 0px;
+	    height: calc(100vh - 74px);
+	}
+
+	.subscription-banner-image .project-name-details {
+	    top: 25px;
+	}
+
+	.subscription-plan-wrapper h3 {
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+
+	.subscription-plan-wrapper p {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.background-white{
+		padding: 8px 10px 8px 20px;
+	}
+
+	.subscription-package-wrapper h4 {
+	    font-size: 16px;
+	}
+
+	.subscription-package-wrapper h5 {
+	    font-size: 18px;
+	}
+
+	.subscription-package-wrapper h5 span {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.subscription-package-wrapper .subscription-btn,
+	.redirect-btn{
+	    padding: 5px 15px;
+	    font-size: 14px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - 62px);
+	}
+
+	.card-details-wrapper {
+	    height: calc(100vh - 150px);
+	}
+
+	.card-details-form-wrapper {
+    	width: 400px;
+	    min-height: 255px;
+	    padding: 15px;
+	}
+
+	.card-holder-details label{
+		font-size: 14px;
+    	line-height: 20px;
+	}
+
+	.card-details-wrapper form .StripeElement {
+	    margin-bottom: 40px;
+	}
+
+	.card-holder-details .card-value{
+		font-size: 16px;
+    	line-height: 22px;
+	}
+
+	.card-details-wrapper form button{
+		font-size: 16px;
+    	line-height: 24px;
+    	padding: 6px 20px;
+	}
+
+	.main-page-content {
+	    margin-top: -66px;
+	}
+
+	.page-inner-content .banner-image {
+	    height: calc(100vh - 74px);
+	}
+
+	.project-addition.mobile-project-addition a .add-icon,
+	.project-addition.mobile-project-addition a .add-label{
+		width: 42px;
+		height: 30px;
+		font-size: 14px;
+	}
+
+	.add-project-btn.mobile-add-project-btn{
+		font-size: 14px;
+		padding: 2px 11px;
+	}
+
+	.banner-buttons{
+		padding: 3px 8px;
+		margin: 3px 0;
+	}
+
+	.management-button-wrapper {
+	    bottom: 5px;
+	}
+
+	.time-sorting{
+		top: 90px;
+		z-index: 2;
+		display: flex;
+		width: 100%;
+		justify-content: center;
+	}
+
+	.page-breadcrumb {
+		top: 0px;
+	}
+
+	.project-name-details{
+		top: -45px;
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item {
+	    font-size: 14px;
+	    line-height: 22px;
+	}
+
+	.common-popup-details.calendar-add-task .modal-dialog, 
+	.common-popup-details.calendar-edit-task .modal-dialog, 
+	.common-popup-details.show-task-details-popup .modal-dialog,
+	.common-popup-details .modal-dialog{
+		margin: 0 auto;
+		max-width: 95%;
+	}
+
+	.common-popup-details .modal-header .modal-title {
+	    font-size: 16px;
+	}
+
+	.form-value-fields {
+	    margin-bottom: 15px;
+	}
+
+	.new-star-popup-details .modal-body .popup-title{
+		font-size: 20px;
+    	line-height: 26px;
+	}
+
+	.choose-plan-popup .modal-body, .new-star-popup-details .modal-body {
+	    padding: 10px 10px 20px;
+	}
+
+	.modal-body .half-field-wrapper{
+		width: 100%;
+	}
+
+	.modal-body .half-field-wrapper label, .form-field-wrapper .recurring-switch-wrapper .form-label label {
+	    font-size: 13px;
+	}
+
+	.modal-body .half-field-wrapper select, 
+	.modal-body .half-field-wrapper input {
+	    height: 36px;
+	    font-size: 13px;
+	    line-height: 20px;
+	}
+
+	.calendar-add-task .modal-body .date-input-wrapper .placeholder-icon-wrap>span {
+	    width: 17px !important;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 130px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 150px;
+	}
+
+	.common-popup-wrapper .form-wrapper .form-group:not(:last-child), 
+	.addcomet-popup-wrapper .form-wrapper .form-group:not(:last-child),
+	.addplanet-popup-wrapper .planet-form-wrapper .form-group:not(:last-child),
+	.addmoon-popup-wrapper .moon-form-wrapper .form-group:not(:last-child),
+	.addsatellite-popup-wrapper .satellite-form-wrapper .form-group:not(:last-child){
+	    margin-bottom: 20px;
+	}
+
+	.common-popup-wrapper .form-wrapper .form-group, 
+	.addcomet-popup-wrapper .form-wrapper .form-group,
+	.addplanet-popup-wrapper .planet-form-wrapper .form-group,
+	.addmoon-popup-wrapper .moon-form-wrapper .form-group,
+	.addsatellite-popup-wrapper .satellite-form-wrapper .form-group{
+		width: 100%;
+	}
+
+	.form-field-wrapper .form-group:nth-child(-n+2){
+		margin-bottom: 20px;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper {
+	    width: 95%;
+	}
+
+	.main-page-header{
+		z-index: 3;
+	}
+
+	.page-breadcrumb{
+		width: 90%;
+	}
+
+	.mobile-spiral {
+	    width: 350px;
+	    height: 350px;
+	}
+
+	.center-circle-wrapper{
+		width: 45px;
+    	height: 45px;
+	}
+
+	#circle-img-7 {
+	    right: 80px;
+	    bottom: 20px;
+	}
+
+	.second-spiral {
+	    width: 270px;
+	    height: 270px;
+	}
+
+	.third-spiral {
+	    width: 200px;
+	    height: 200px;
+	}
+
+	.fourth-spiral {
+	    width: 165px;
+	    height: 165px;
+	}
+
+	#circle-img-11 {
+	    left: 35px;
+	    top: -20px;
+	}
+
+	#circle-img-16 {
+		bottom: 55px;
+		right: 10px;
+	}
+
+	#circle-img-18 {
+	    left: 60px;
+	    bottom: 15px;
+	}
+
+	#circle-img-19 {
+	    left: 35px;
+	    bottom: 0px;
+	}
+
+	#circle-img-24 {
+	    right: 40px;
+	    top: 10px;
+	}
+
+	#circle-img-25 {
+	    right: 0px;
+	    bottom: 35px;
+	}
+
+	#circle-img-27{
+		right: 15px;
+	}
+
+	#circle-img-29{
+		left: 0px;
+	}
+
+	.satellite-page #circle-img-2 {
+	    top: -5px;
+	}
+
+	.satellite-page #circle-img-4{
+		right: -10px;
+	}
+
+	.satellite-page #circle-img-9 {
+	    bottom: 40px;
+	    left: 85px;
+	}
+
+	.satellite-page #circle-img-11 {
+	    top: 45px;
+	    left: -5px;
+	}
+
+	.satellite-page #circle-img-18{
+		right: 55px;
+	}
+
+	.satellite-page #circle-img-29 {
+	    left: -10px;
+	}
+
+	.circle-image {
+	    width: 30px !important;
+	    height: 30px !important;
+	}
+
+	.choose-plan-popup .modal-body .gradient-btn {
+	    padding: 8px 22px;
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.upcoming-star-wrapper{
+		height: calc(100vh - 150px);
+		padding: 80px 20px 0;
+	}
+
+	.page-not-found-wrapper{
+		height: calc(100vh - 150px);
+	}
+
+	.modal-form-wrapper .modal-dialog, 
+	.signup-form.modal-form-wrapper .modal-dialog{
+		max-width: 95%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.common-btn {
+	    padding: 7px 10px;
+	    font-size: 14px;
+	    min-width: 115px;
+	}
+
+	.header-sign-option ul li:first-child {
+	    margin-right: 10px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title {
+	    font-size: 24px;
+	    line-height: 32px;
+	}
+
+	.reset-link-text {
+	    font-size: 14px;
+	    line-height: 22px;
+	    margin: 20px auto 0;
+	    width: 100%;
+	}
+
+	.submit-form-wrapper {
+	    margin-top: 20px;
+	}
+
+	.sign-up-opt li {
+	    margin: 0 5px;
+	}
+
+	.sign-up-opt li a {
+	    width: 27px;
+	    height: 27px;
+	}
+
+	.signup-form .nav-tabs {
+	    margin-bottom: 20px;
+	}
+
+	.check-label{
+		padding-left: 30px;
+	}
+
+	.checkmark {
+	    height: 18px;
+	    width: 20px;
+	}
+
+	.check-label .checkmark:after{
+		width: 5px;
+    	height: 10px;
+    	left: 7px;
+	}
+
+	.notification-title {
+		font-size: 18px;
+		line-height: 24px;
+		padding: 8px 4px;
+	}
+
+	.notification-image {
+	    width: 30px;
+	    height: 30px;
+	    margin-right: 5px;
+	}
+
+	.notification-data-wrapper {
+	    width: calc(100% - 35px);
+	}
+
+	.show_images .file_img:not(:last-child) {
+	    margin-right: 6px;
+	}
+
+	.show_images .file_img {
+	    width: 45px;
+	    height: 45px;
+	}
+
+	.show_images .file_img img, .show_images .file_img video {
+	    height: 65%;
+	    width: 65%;
+	}
+
+	.common-popup-wrapper, 
+	.addcomet-popup-wrapper, 
+	.addplanet-popup-wrapper, 
+	.addmoon-popup-wrapper, 
+	.addsatellite-popup-wrapper{
+		max-height: calc(100% - 40px);
+	}
+
+	.dropdown-item-wrapper .nodata{
+	  font-size: 13px;
+	}
+
+	.banner-inner-spiral-wrapper{
+		z-index: 1;
+	}
+
+	.back-btn{
+		margin: -15px 0 30px -20px;
+		font-size: 14px;
+    	padding: 8px 8px 8px 14px;
+	}
+
+	.calendar-add-task .modal-body .form-group .error-msg, .calendar-edit-task .modal-body .form-group .error-msg {
+	    top: 65px;
+	}
+
+	.calendar-add-task .modal-body .form-group, .calendar-edit-task .modal-body .form-group{
+		margin-bottom: 25px;
+	}
+
+	.treeview-title{
+		margin: 0 7px 0 0;
+	}
+
+	.tree-search-wrapper{
+    	margin-left: 10px;
+	}
+
+	.show-planet, .show-moon {
+	    padding-left: 15px;
+	}
+
+	.treeview-structure .project-name-details {
+		top: -45px;
+	}
+
+	.comet-page .back-btn{
+		padding: 8px;
+	}
+}
+
+@media (max-width: 479px) {
+
+	.inner-page-header .nav-header {
+	    padding: 10px 15px;
+	}
+
+	.nav-header .navbar-brand {
+	    width: 120px;
+	}
+
+	.main-page-header {
+	    padding: 5px 10px 0;
+	}
+
+	.user-detail-dropdown .btn {
+		width: 30px;
+		height: 30px;
+	}
+
+	.inner-page-header .user-detail-dropdown .btn{
+		width: 35px;
+		height: 35px;	
+	}
+
+	.user-detail-dropdown .dropdown-menu.show{
+		min-width: 160px;
+		padding: 10px 8px 8px;
+		margin-right: 0px !important;
+		margin-top: 9px !important;
+	}
+
+	.modal-form-wrapper .modal-header .form-sub-text, 
+	.check-label, 
+	.user-name, 
+	.user-email, 
+	.account-type, 
+	.user-profile-form .form-group label, 
+	.user-profile-details li label, 
+	.user-profile-details li .value, 
+	.logout-link, 
+	.user-profile-details li .dropdown-menu-link{
+		font-size: 13px;
+		line-height: 20px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before, .notification .dropdown-menu.show:before{
+		top: -5px;
+		right: 10px;
+		border-left: 5px solid transparent;
+		border-right: 5px solid transparent;
+		border-bottom: 5px solid #fff;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before {
+	    right: 12px;
+	}
+
+	.header-contact-info {
+		width: 14px;
+		margin-right: 0px;
+		margin-top: 6px;
+	}
+
+	.page-breadcrumb{
+		left: 10px;
+	}
+
+	.page-breadcrumb .breadcrumb .breadcrumb-item {
+	    font-size: 13px;
+	    line-height: 20px;
+	}
+
+	.notification .notification-number{
+		font-size: 7px;
+		right: 2px;
+		top: -3px;
+	}
+
+	.notification {
+	    margin-top: 8px;
+	}
+
+	.inner-page-header .notification{
+		margin-top: 12px;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+	    width: 150px !important;
+	    height: 150px !important;
+	}
+
+	.profile-image-section .edit-icon-wrapper {
+	    width: 25px;
+	    height: 25px;
+	    right: 10px;
+	    bottom: 10px;
+	}
+
+	.treeview-section {
+	    padding: 15px 15px 0 15px;
+	}
+
+	.treeview-list {
+	    height: calc(100vh - 400px);
+	}
+
+	.tree-search-wrapper {
+	    margin-right: 0;
+	    margin-bottom: 0px;
+	    margin-left: 0px;
+	    margin-top: 10px;
+	    width: 100%;
+	}
+
+	.treeview-filter-dropdown{
+		width: 100%;
+	}
+
+	.treeview-title{
+		margin: 0 0 10px 0;
+	}
+
+	.subscription-plan-wrapper h3 {
+	    font-size: 16px;
+	    line-height: 22px;
+	}
+
+	.subscription-plan-wrapper p {
+	    font-size: 13px;
+	    line-height: 18px;
+	}
+
+	.subscription-package-wrapper h4 {
+		font-size: 15px;
+		margin: 0 8px 0 0;
+	}
+
+	.subscription-package-wrapper h5 {
+	    font-size: 17px;
+	}
+
+	.subscription-package-wrapper h5 span {
+	    font-size: 13px;
+	    line-height: 18px;
+	}
+
+	.subscription-content-side{
+		margin-right: 8px;
+	}
+
+	.signup-text-wrapper p {
+	    font-size: 9px;
+	    line-height: 14px;
+	}
+
+	.signup-text-wrapper p a {
+		font-size: 12px;
+		line-height: 20px;
+	}
+
+	.signup-text-wrapper:last-child {
+	    margin-top: 5px;
+	}
+
+	.card-details-form-wrapper {
+	    width: 350px;
+	    min-height: 230px;
+	    padding: 12px;
+	}
+
+	.card-holder-wrapper{
+		margin-bottom: 15px;
+	}
+
+	.main-page-content {
+	    margin-top: -61px;
+	}
+
+	.new-star-popup-details .modal-body .popup-title{
+		font-size: 18px;
+    	line-height: 24px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 130px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 110px;
+	}
+
+	.mobile-spiral {
+	    width: 300px;
+	    height: 300px;
+	}
+
+	.center-circle-wrapper {
+	    width: 40px;
+	    height: 40px;
+	}
+
+	.circle-center-name {
+	    font-size: 12px;
+	    line-height: 16px;
+	    -webkit-line-clamp: 1;
+	}
+
+	.second-spiral {
+	    width: 220px;
+	    height: 220px;
+	}
+
+	.third-spiral {
+	    width: 170px;
+	    height: 170px;
+	}
+
+	.fourth-spiral {
+		width: 145px;
+		height: 145px;
+	}
+
+	#circle-img-2{
+		top: 0px;
+	}
+
+	#circle-img-7 {
+	    right: 70px;
+	}
+
+	#circle-img-11 {
+	    left: 25px;
+	    top: -25px;
+	}
+
+	#circle-img-16 {
+	    bottom: 40px;
+	    right: 0px;
+	}
+
+	#circle-img-18 {
+	    left: 55px;
+	    bottom: 25px;
+	}
+
+	#circle-img-19 {
+	    left: 30px;
+	}
+
+	#circle-img-24 {
+	    right: 35px;
+	    top: 5px;
+	}
+
+	#circle-img-25 {
+	    bottom: 30px;
+	}
+
+	#circle-img-27 {
+	    right: 10px;
+	}
+
+	.satellite-page #circle-img-9 {
+	    bottom: 30px;
+	    left: 70px;
+	}
+
+	.satellite-page #circle-img-11 {
+	    top: 30px;
+	    left: -15px;
+	}
+
+	.satellite-page #circle-img-18 {
+	    right: 35px;
+	    top: 0px;
+	}
+
+	.satellite-page #circle-img-29 {
+	    left: -15px;
+	}
+
+	.choose-plan-popup .modal-body .subscription-plan-content {
+	    font-size: 14px;
+	    line-height: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.upcoming-star-wrapper{
+		padding: 70px 15px 0;
+	}
+
+	.table-wrapper {
+	    height: calc(100vh - 370px);
+	}
+
+	.notification .dropdown-menu.show .notification-listing-dropdown {
+	    width: 300px;
+	}
+
+	.notification-title{
+		font-size: 17px;
+	}
+
+	.project-date .date-lable {
+	    font-size: 11px;
+	}
+
+	.project-date .date-value {
+	    font-size: 12px;
+	}
+
+	.notification-name{
+	    width: calc(100% - 100px);
+	}
+
+	.notification .dropdown-toggle {
+	    width: 32px;
+	}
+
+	.pagination_loader{
+	    padding: 8px 0;
+	}
+
+	.pagination_loader .spinner-border {
+	    width: 22px;
+	    height: 22px;
+	}
+
+	.add-btn-wrapper,
+	.common-popup-details .modal-footer{
+		justify-content: center;
+	}
+
+	.mark-done-btn {
+		margin: 10px auto 0;
+	}
+
+	.page-not-found-title {
+	    font-size: 140px;
+	}
+
+	.not-found-subtitle {
+		font-size: 28px;
+		line-height: 36px;
+	}
+
+	.notfound-404 p {
+		font-size: 14px;
+		line-height: 22px;
+	    width: 100%;
+	    margin: 0 auto 20px;
+	}
+
+	.back-btn {
+    	margin: -10px 0 30px -20px;
+	}
+
+	.back-btn .back-arrow-img {
+	    width: 13px !important;
+	    height: 14px;
+	}
+
+	.back-btn{
+		font-size: 12px;
+	}
+
+	.subscription-banner-image .back-btn {
+	    left: 0px;
+	    top: 70px;
+	    padding: 8px;
+	}
+
+	.treeview-wrapper .back-btn{
+		top: 10px;
+	}
+}
+
+@media (max-width: 400px) {
+
+	.main-page-content {
+	    margin-top: -55px;
+	}
+
+	.time-sorting {
+	    top: 100px;
+	}
+
+	.time-sorting .nav-tabs .nav-link {
+		padding: 0px 2px;
+		min-width: 50px;
+		font-size: 10px;
+	}
+
+	.project-left-details {
+	    top: 165px;
+	}
+
+/*	.add-project-btn.mobile-add-project-btn {
+	    font-size: 12px;
+	    padding: 1px 9px;
+	}*/
+
+	.mobile-button-wrapper-right-side .banner-buttons{
+		font-size: 11px;
+	}
+
+	.page-inner-content .banner-image .project-details {
+	    top: 60px;
+	}
+
+	.modal-form-wrapper .modal-header .form-sub-text, 
+	.check-label, 
+	.user-name, 
+	.user-email, 
+	.account-type, 
+	.user-profile-form .form-group label, 
+	.user-profile-details li label, 
+	.user-profile-details li .value, 
+	.logout-link, 
+	.user-profile-details li .dropdown-menu-link {
+	    font-size: 12px;
+	    line-height: 18px;
+	}
+
+	.notification .dropdown-menu .dropdown-item {
+	    font-size: 11px;
+	    line-height: 18px;
+	    padding: 16px 8px 8px;
+	}
+
+	.notification-name {
+	    font-size: 13px;
+	    line-height: 16px;
+	}
+
+	.notification-name{
+	    width: 100%;
+	}
+
+	.notification-date {
+	    font-size: 9px;
+	    line-height: 15px;
+	    top: 1px;
+	}
+
+	.user-detail-dropdown .dropdown-menu.show:before, .notification .dropdown-menu.show:before{
+		right: 10px;
+	}
+
+	.profile-edit-section{
+		padding: 15px;
+	}
+
+	.profile-image-section>span,
+	.profile-image-section .profile-pic {
+		width: 120px !important;
+		height: 120px !important;
+	}
+
+	.profile-image-section .edit-icon-wrapper {
+	    width: 22px;
+	    height: 22px;
+	    right: 5px;
+	    bottom: 5px;
+	}
+
+	.treeview-section{
+		padding: 25px 15px 0 15px;
+	}
+
+	.treeview-structure .project-name-details {
+	    top: -50px;
+	}
+
+	.treeview-filter {
+	    padding: 8px 12px;
+	}
+
+	.treeview-list {
+	    padding: 12px;
+	    height: calc(100vh - 420px);
+	}
+
+	.treeview-listing .treeview-name {
+	    padding: 5px 8px 5px 27px;
+	    background-size: 15px;
+	    background-position: left 6px top 10px;
+    	margin-bottom: 8px;
+	}
+
+	.treeview-button {
+	    top: 10px;
+	    background-size: 12px;
+	    width: 12px;
+	    height: 12px;
+	}
+
+	.profile-edit-section,
+	.upcoming-star-wrapper,
+	.treeview-section,
+	.page-not-found-wrapper{
+		height: calc(100vh - 144px);
+	}
+
+	.web-logo .mobile-web-logo-wrapper span,
+	.navbar-brand-mobile span{
+	    width: 45px !important;
+	}
+
+	.form-label-wrapper>span {
+	    width: 17px !important;
+	}
+
+	.project-name-details .project-page-name {
+	    font-size: 20px;
+	    line-height: 28px;
+	}
+
+	.background-white {
+	    padding: 6px 10px 6px 12px;
+	}
+
+	.subscription-plan-wrapper h3 {
+	    font-size: 13px;
+	    line-height: 18px;
+	}
+
+	.subscription-plan-wrapper p {
+	    font-size: 12px;
+	    line-height: 16px;
+	}
+
+	.pack-details{
+		align-items: center;
+	}
+
+	.subscription-package-wrapper h4{
+		margin: 0 5px 0 0;
+		font-size: 14px;
+		line-height: 22px;
+    	text-align: left;
+	}
+
+	.subscription-banner-image{
+		padding: 10px 10px 0px;
+	}
+
+	.subscription-package-wrapper h5 {
+	    font-size: 15px;
+	}
+
+	.subscription-package-wrapper h5 span {
+		font-size: 12px;
+		line-height: 17px;
+	}
+
+	.subscription-plan-wrapper {
+	    padding: 5px 0 10px 0;
+	}
+
+	.signup-text-wrapper {
+	    margin: 10px auto 0;
+	    padding: 8px;
+	}
+
+	.signup-text-wrapper p:not(:last-child) {
+	    margin-bottom: 6px;
+	}
+
+	.show-subscription-content-wrapper {
+	    height: calc(80% - -82px);
+	}
+
+	.subscription-package-wrapper .subscription-btn,
+	.redirect-btn{
+	    padding: 4px 10px;
+	    font-size: 13px;
+	}
+
+	.card-details-form-wrapper {
+	    width: 280px;
+	    min-height: 200px;
+	}
+
+	.form-value-fields label, 
+	.form-value-fields .form-value, 
+	.calendar-edit-task .modal-body .half-field-wrapper label, 
+	.calendar-edit-task .modal-body .form-value{
+		font-size: 12px;
+	}
+
+	.calendar-edit-task .modal-body .form-value, 
+	.show-task-details-popup .modal-body .form-value{
+		font-size: 13px;
+	}
+
+	.show-task-details-popup .modal-body .form-value .file_img img {
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.choose-plan-popup .modal-body, .new-star-popup-details .modal-body {
+	    padding: 10px 10px 15px;
+	}
+
+	.calendar-add-task .modal-body .form-label>span,
+	.calendar-edit-task .modal-body .form-label>span{
+	    width: 17px !important;
+	}
+
+	.modal-body .half-field-wrapper label, .form-field-wrapper .recurring-switch-wrapper .form-label label {
+	    font-size: 12px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 105px;
+	}
+
+	.calendar-add-task .form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 85px;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--next {
+	    right: 32%;
+	}
+
+	.form-field-wrapper .react-datepicker__navigation.react-datepicker__navigation--previous {
+	    right: 37%;
+	}
+
+	.mobile-spiral {
+	    width: 280px;
+	    height: 280px;
+	}
+
+	.banner-buttons {
+	    font-size: 11px;
+	}
+
+	.center-circle-wrapper {
+	    width: 35px;
+	    height: 35px;
+	    margin: -2px 0 0 -2px;
+	}
+
+	#circle-img-7 {
+	    right: 65px;
+	    bottom: 15px;
+	}
+
+	#circle-img-11 {
+	    left: 30px;
+	    top: -20px;
+	}
+
+	#circle-img-16 {
+	    bottom: 45px;
+	    right: 5px;
+	}
+
+	#circle-img-18 {
+	    left: 60px;
+	    bottom: 30px;
+	}
+
+	#circle-img-19 {
+	    left: 35px;
+	    bottom: 5px;
+	}
+
+	#circle-img-24 {
+	    right: 35px;
+	    top: 10px;
+	}
+
+	#circle-img-27 {
+	    right: 15px;
+	}
+
+	#circle-img-29 {
+	    left: 5px;
+	}
+
+	.satellite-page .circle-image {
+	    width: 45px !important;
+	    height: 45px !important;
+	}
+
+	.satellite-page #circle-img-9{
+		left: 65px
+	}
+
+	.satellite-page #circle-img-11 {
+	    top: 35px;
+	    left: -5px;
+	}
+
+	.satellite-page #circle-img-18 {
+	    right: 45px;
+	    top: 10px;
+	}
+
+	.satellite-page #circle-img-29 {
+	    left: -10px;
+	}
+
+	.group-member-message{
+		padding: 10px;
+	}
+
+	.group-message-chat{
+		margin-bottom: 10px;
+	}
+
+	.message-wrapper {
+	    width: 85%;
+	}
+
+	.reset-link-text{
+		font-size: 13px;
+	    line-height: 20px;
+	    margin: 10px auto 0;
+	}
+
+	.modal-form-wrapper .modal-header .form-title {
+	    font-size: 22px;
+	    line-height: 28px;
+	}
+
+	.submit-form-wrapper .submit-btn-wrapper{
+		min-width: 90px;
+	}
+
+	.modal-form-wrapper .modal-content, .signup-form.modal-form-wrapper .modal-content {
+	    padding: 20px 10px;
+	}
+
+	.modal-form-wrapper .modal-header .form-title{
+		margin-bottom: 5px;
+	}
+
+	.modal-form-wrapper .modal-header {
+	    margin-bottom: 20px;
+	}
+
+	.signup-form .nav-item {
+	    margin: 0 8px;
+	}
+
+	.signup-form .nav-tabs .nav-link span{
+		font-size: 15px;
+    	line-height: 20px;
+	}
+
+	.checkmark {
+    	height: 16px;
+	    width: 18px;
+	}
+
+	.check-label .checkmark:after{
+		width: 4px;
+		height: 9px;
+	}
+
+	.check-label {
+	    padding-left: 25px;
+	}
+
+	.common-btn {
+	    padding: 6px 10px;
+	    font-size: 12px;
+	    min-width: 90px;
+	}
+
+	.notification .dropdown-menu.show .notification-listing-dropdown {
+	    width: 230px;
+	}
+
+	.notification-image{
+		width: 27px;
+    	height: 27px;
+	}
+
+	.banner-spiral{
+		margin: 90px 0 0 0;
+	}
+
+	.form-label-wrapper {
+	    max-width: 125px;
+	}
+
+	.calendar-edit-task .modal-body .form-value, .show-task-details-popup .modal-body .form-value {
+	    width: calc(100% - 125px);
+	}
+
+	.page-not-found-title {
+	    font-size: 100px;
+	}
+
+	.not-found-subtitle {
+	    font-size: 24px;
+	    line-height: 32px;
+	}
+
+	.notfound-404 p {
+	    font-size: 13px;
+	    line-height: 20px;
+	    margin: 0 auto 15px;
+	}
+
+	.user-profile-section .back-btn .back-arrow-img{
+		width: 11px !important;
+    	height: 12px;
+	}
+
+	.profile-edit-section .back-btn{
+		padding: 8px;
+	}
+
+	.group-chat-section .back-btn{
+		top: -15px;
+	}
+}
